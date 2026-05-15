@@ -1,0 +1,112 @@
+<Strings>
+	<!-- mercs and results, limited set support -->
+	<Text> ACHETER</Text>
+	<Text>QUITTER</Text>
+	<Text>[%dsec</Text>
+	<Text>@%6d</Text>
+	<Text>EPILOGUE</Text>
+	<Text>Temps</Text>
+	<Text>Nb. de sauvegardes</Text>
+	<Text>Nb. de sauvegarde</Text>
+	<Text>Classement</Text>
+	<Text>CARLOS</Text>
+	<Text>MIKHAIL</Text>
+	<Text>NICHOLAI</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- HUD text, limited set support -->
+	<Text>Vitesse x%d</Text>
+	<Text>Mode retro %s</Text>
+	<Text>Plein ecran</Text>
+	<Text>Resolution %dx%d</Text>
+	<Text>Correct. rendu %s</Text>
+	<Text>Filtrage %s</Text>
+	<Text>Capture ecran...</Text>
+	<Text>oui</Text>
+	<Text>non</Text>
+	<Text>Vie %3d      Mun %3d      Boss %3d</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- quit screen, full set support -->
+	<Text>QUITTER : F9</Text>
+	<Text>RÉINITIALISER : F9</Text>
+	<Text>ANNULER : AUTRE TOUCHE</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- option screen, full set support -->
+	<Text>RÉINITIALISER ?</Text>
+	<Text>OUI</Text>
+	<Text>NON</Text>
+	<Text>VOL. MUSIQUE</Text>
+	<Text>-</Text>
+	<Text>+</Text>
+	<Text>VOL. EFFETS</Text>
+	<Text>VOL. VIDÉO</Text>
+	<Text>/</Text>
+	<Text>MANUEL</Text>
+	<Text>AUTO</Text>
+	<Text>OPTIONS DE JEU</Text>
+	<Text>CONFIG. TOUCHES</Text>
+	<Text>A</Text>
+	<Text>B</Text>
+	<Text>C</Text>
+	<Text>TYPE</Text>
+	<Text>VIBRATION</Text>
+	<Text>OFF</Text>
+	<Text>ON</Text>
+	<Text>PARAMÈTRES AUDIO</Text>
+	<Text>MONO</Text>
+	<Text>STÉRÉO</Text>
+	<Text>RÉGLAGE MONITEUR</Text>
+	<Text>RÉINIT.</Text>
+	<Text>QUITTER</Text>
+	<Text>PARAMÈTRES GRAPHIQUES</Text>
+	<Text>RÉSOLUTION DU JEU</Text>
+	<Text>FILTRAGE</Text>
+	<Text>CORRECTION PERSPECTIVE</Text>
+	<Text>MODE RÉTRO</Text>
+	<Text>RÉSOLUTION DES FONDS</Text>
+	<Text>PSX</Text>
+	<Text>PC</Text>
+	<Text>PLEIN ÉCRAN</Text>
+	<Text>SUPERÉCHANTILLONNAGE</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<!-- pad options, full support -->
+	<Text>Écran d'options</Text>
+	<Text>Statut</Text>
+	<Text>Courir/Annuler</Text>
+	<Text>Tirer/Confirmer</Text>
+	<Text>Carte</Text>
+	<Text>Viser (ennemis)</Text>
+	<Text>Viser (tout)</Text>
+	<Text>Changer de cible</Text>
+	<Text>Tourner à droite</Text>
+	<Text>Tourner à gauche</Text>
+	<Text>Reculer</Text>
+	<Text>Avancer</Text>
+	<Text>Quitter</Text>
+	<Text>Confirmer modif.</Text>
+	<Text>Abandonner</Text>
+	<Text>Pause</Text>
+	<Text>Clavier</Text>
+	<Text>Manette</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+	<Text>reserved</Text>
+</Strings>
