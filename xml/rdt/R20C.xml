@@ -6,9 +6,9 @@
     <Text>{scroll 2}Cette machine n'a pas \nseulement besoin d'additif.</Text>
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\n‟Plan du Réseau“</Text>
-    <Text>{scroll 2}Le câble d'alimentation \nn'est pas connecté.</Text>
-    <Text>{scroll 2}\nLe fusible a sauté.</Text>
-    <Text>{scroll 2}Le mélange d'huiles a été\nconsommé.</Text>
+    <Text>{scroll 2}Le {color 1}{string 51}{color 0} \nn'est pas connecté.</Text>
+    <Text>{scroll 2}\nLe {color 1}{string 52}{color 0} a sauté.</Text>
+    <Text>{scroll 2}Le {color 1}{string 58}{color 0} \na été consommé.</Text>
     <Text>{scroll 2}Mikhail semble souffrir\nterriblement. </Text>
     <Text>{scroll 0}Vous êtes un des survivants \nde l'équipe de secours, hein ? {scroll 1}{clear 82}{scroll 0}Je viens de rencontrer un de \nvos coéquipiers, Carlos.{scroll 1}{timed 81}</Text>
     <Text>{scroll 0}Comment une fille comme \ntoi a-t-elle fait pour {scroll 1}{clear 50}{scroll 0}\nsurvivre ici ?{scroll 1}{timed 36}</Text>

@@ -3,6 +3,6 @@
     <Text>{scroll 2}\nC'est bien rangé.</Text>
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}‟Votre guide de \nl'assurance santé“</Text>
-    <Text>{scroll 0}On dirait une bombe à\nretardement.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}On dirait une bombe à\nretardement.{scroll 1}{timed 90}</Text>
     <Text>{scroll 2}\nJe dois m'enfuir !</Text>
 </Strings>
