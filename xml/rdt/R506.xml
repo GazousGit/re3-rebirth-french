@@ -1,0 +1,16 @@
+<Strings>
+    <Text>{scroll 2}Comptes-rendus\nd'expérience.{clear 0}‟Fiez-vous aux sections\nde valeur zéro lorsque{clear 0}\nvous ajustez les données.“</Text>
+    <Text>{scroll 2}Cet appareil mesure \nla qualité de l'eau.{clear 0}Il faudrait un échantillon\nd'eau.</Text>
+    <Text>{scroll 2}Cet appareil mesure \nla qualité de l'eau.{clear 0}Voulez-vous l'utiliser ?\n{branch 0}</Text>
+    <Text>{scroll 2}Quel indicateur voulez-vous\nrégler ?{branch 64}AA{live}B{live}C{live}Annuler{live}</Text>
+    <Text>{scroll 2}Aller dans quelle direction ? \n {branch 64}Gauche{live}Droite{live}Vérifier{live}Retour{live}</Text>
+    <Text>{scroll 2}Le verrou semble avoir été\nouvert.</Text>
+    <Text>{scroll 2}Des rayons ultraviolets\nsont envoyés sur l'eau.</Text>
+    <Text>{scroll 2}Il y a un emplacement\npour une petite carte.</Text>
+    <Text>{scroll 2}‟Alerte pollution...\nIsolation de la zone{clear 0}\nen cours.“{clear 0}‟Par mesure de sécurité,\nune vérification manuelle{clear 0}est nécessaire pour\ndéverrouiller la zone.“</Text>
+    <Text>{scroll 2}\nLe verrou a été désactivé.</Text>
+    <Text>{scroll 2}Le résultat diffère de\nl'échantillon.</Text>
+    <Text>{scroll 2}Aller dans quelle direction ? \n {branch 65}Gauche{live}Droite{live}Vérifier{live}Retour{live}</Text>
+    <Text>{scroll 2}‟Qualité de l'eau\nsatisfaisante.“</Text>
+    <Text>{scroll 2}\n‟Qualité de l'eau : OK.“</Text>
+</Strings>

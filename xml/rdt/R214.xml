@@ -1,0 +1,20 @@
+<Strings>
+    <Text>{scroll 2}‟N'oubliez pas de mettre\nl'émetteur en mode manuel{clear 0}lorsque vous utilisez le \ntransformateur.“{clear 0}‟L'ancien système provoque\ndes courts-circuits.{clear 0}Assurez-vous de ne pas le\npousser au maximum.“{clear 0}Voulez-vous le mettre en\nmode manuel ? {branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\nRéglé en mode manuel.</Text>
+    <Text>{scroll 2}Les compteurs semblent\nêtre hors d'usage.</Text>
+    <Text>{scroll 2}Un transformateur qui\nalimente le complexe.{clear 0}                  \nLe mode auto est activé.</Text>
+    <Text>{scroll 2}Un transformateur qui\nalimente le complexe.{clear 0}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}                  \nRien ne se passe.</Text>
+    <Text>{scroll 2}Le voltage a été modifié, \nsans doute à cause du{clear 0}\ncourt-circuit.{clear 0}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}‟Salle haute tension.\nLe verrou s'ouvre {clear 0}                  \nentre 115 et 125V.“</Text>
+    <Text>‟Salle basse tension.\nLe verrou s'ouvre{clear 0}                  \nntre 15 et 25V.“</Text>
+    <Text>{scroll 2}Une ancienne sortie de\nsecours. La corrosion {clear 0}de la poignée empêche \nd'ouvrir la porte.</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 0}{branch 160}Vers la sortie de secours.{live}Augmenter la puissance.{live}</Text>
+    <Text>{scroll 2}                  \n                  </Text>
+    <Text>{scroll 2}Vous avez déverrouillé\nla porte.{timed 28}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 141}</Text>
+</Strings>

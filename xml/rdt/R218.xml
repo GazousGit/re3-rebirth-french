@@ -1,0 +1,5 @@
+<Strings>
+    <Text>{scroll 2}\nUne bouche d'incendie.{clear 0}Une {color 1}lance incendie{color 0} est \nfixée avec des boulons.</Text>
+    <Text>{scroll 2}\nUne bouche d'incendie.</Text>
+    <Text>{scroll 2}Vous n'avez plus besoin\nde cette {color 1}clé à molette{color 0}.{clear 0}Voulez-vous l'abandonner ?\n{branch 0}</Text>
+</Strings>

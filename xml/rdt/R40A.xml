@@ -1,0 +1,14 @@
+<Strings>
+    <Text>{scroll 0}Je ne savais pas qu'il\nrestait un cobaye vivant !{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}Mais t'es taré !\nTu te crois où, là ?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Il est parfois si facile\nd'oublier toute loyauté.{clear 98}Comme ce traître\npar exemple !{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Tu parles du mec qui\nt'a tiré dessus ?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}Ouais, lui-même.\nCelui avec les cheveux{clear 97}\ngris et la sale tronche.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}J'arrive pas à croire qu'il ait\npu me faire ça... Le traître !{scroll 1}{timed 154}</Text>
+    <Text>{scroll 0}\nTu parles de Nicholaï ?!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 67}</Text>
+    <Text>{scroll 2}Des vases à bec et des\nfioles.</Text>
+    <Text>{scroll 2}Des fioles contenant des\nvirus.</Text>
+    <Text>{scroll 2}C'est fermé par un verrou\ncomplexe. Impossible {clear 0}\nd'ouvrir.</Text>
+    <Text>{scroll 2}‟Ces produits chimiques\nsont à manipuler avec une{clear 0}\nextrême précaution.“</Text>
+</Strings>

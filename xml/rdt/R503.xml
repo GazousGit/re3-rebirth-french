@@ -1,0 +1,10 @@
+<Strings>
+    <Text>{scroll 2}Un système d'observation\nqui fonctionne.{clear 0}Il a été installé\nrécemment.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nSystème de sécurité.{clear 0}‟Générateurs : veille.\nQualité de l'eau : Erreur.“{clear 0}‟Vérification manuelle\npour déverrouiller.“</Text>
+    <Text>{scroll 2}\nSystème de sécurité.{clear 0}‟Générateurs : veille.\nQualité de l'eau : OK.“{clear 0}‟Vérification manuelle\npour déverrouiller.“</Text>
+    <Text>{scroll 2}\nSystème de sécurité.{clear 0}‟Générateurs : OK.\nQualité de l'eau : Erreur.“{clear 0}‟Vérification manuelle\npour déverrouiller.“</Text>
+    <Text>{scroll 2}\nSystème de sécurité.{clear 0}‟Générateurs : OK.\nQualité de l'eau : OK.“</Text>
+    <Text>{scroll 2}Appuyer sur le bouton ?\n{branch 0}</Text>
+    <Text>{scroll 2}C'est verrouillé par un\nsystème de sécurité.</Text>
+</Strings>

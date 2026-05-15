@@ -1,0 +1,28 @@
+<Strings>
+    <Text>{scroll 0}                  \nJe vais voir par là.{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \nNicholaï !!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \nJill !{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Hé, les zombies commencent\nà s'agiter...{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \nCa m'en a tout l'air ! {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}Je les entends. \nQue se passe-t-il ?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \nJill !{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  \nQuoi ?{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}                  \nIls arrivent ! {scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}Ils ont dû nous flairer.\nIls savent que nous sommes ici !{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \nHé, du calme. {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}T'as rien contre mon \nidée de jouer au {clear 38}héros\ncette fois ?{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Qu'est-ce que tu fais ?\n Viens ici !{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \nCarlos !{scroll 1}{timed 33}</Text>
+    <Text>{scroll 2}Cette armoire permet de \nconserver les{clear 0}hydrocarbures à\ntempérature.</Text>
+    <Text>{scroll 2}Cette armoire permet de \nconserver les{clear 0}hydrocarbures à\ntempérature.{clear 0}Chercher la combinaison ?\n{branch 0}</Text>
+    <Text>{scroll 2}Cette armoire permet de \nconserver les{clear 0}hydrocarbures à\ntempérature.{clear 0}                  \nIl n'y a rien d'utile ici.</Text>
+    <Text>{scroll 2}Nécessaire de lavage de\nvoiture.</Text>
+    <Text>{scroll 2}                  \nUn guichet en désordre.</Text>
+    <Text>{scroll 2}Le matériel de peinture\nest stocké ici.</Text>
+    <Text>{scroll 2}                  \nRien de spécial.</Text>
+    <Text>{scroll 2}Cela trempe dans de \nl'huile.</Text>
+    <Text>{scroll 2}Carlos regarde \nau-dehors.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 42}</Text>
+</Strings>

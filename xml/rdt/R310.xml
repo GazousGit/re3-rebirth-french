@@ -1,0 +1,17 @@
+<Strings>
+    <Text>{scroll 2}Je dois m'occuper d'elle\ndès que possible...</Text>
+    <Text>{scroll 0}\n1er octobre. Il fait nuit.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Le bruit des gouttes de pluie \nm'a réveillée...{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}J'ai peine à croire que je \nsuis toujours en vie...{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}On dirait que nos rôles ont \nété inversés par rapport à {scroll 1}{clear 70}{scroll 0}notre première rencontre, \npas vrai ?{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nNe t'inquiète pas Jill. {scroll 1}{clear 33}{scroll 0}Nous sommes en sécurité dans \ncette chapelle.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}J'ai été contaminée par le \nvirus, c'est ça ?{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\nHé, pas de panique !{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}Ca va... \nJe ne souffre pas... {scroll 1}{clear 94}{scroll 0}C'est bien ce qui m'inquiète, \nd'ailleurs.{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Si je ne sens rien, qu'est-ce \nque ça veut dire... ?{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Courage, Jill ! \nJe vais m'occuper de toi.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Quoi que tu fasses, ne laisse \npas ce virus t'abattre !{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 111}</Text>
+    <Text>{scroll 0}Si jamais je me transformais \nen zombie... Promets-moi de... {scroll 1}{clear 108}{scroll 0}Je veux que tu promettes de \nme tuer !{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

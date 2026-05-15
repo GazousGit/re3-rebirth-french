@@ -1,0 +1,28 @@
+<Strings>
+    <Text>{scroll 2}C'est fermé par un simple\nverrou.</Text>
+    <Text>{scroll 2}C'est fermé par un simple\nverrou.{clear 0}Utiliser le {color 1}{string 0}{color 0} ?\n{branch 0}</Text>
+    <Text>{scroll 2}Il y a une fuite de gaz \ninflammable.</Text>
+    <Text>{scroll 2}                  \nLa lampe est allumée.</Text>
+    <Text>{scroll 2}Notes sur les \napprovisionnements en{clear 0}                  \nnourritures diverses.</Text>
+    <Text>{scroll 2}                  \nC'est une trappe.{clear 0}Une cavité permet d'y\ninsérer quelque chose...</Text>
+    <Text>{scroll 2}La ligne téléphonique\nsemble être coupée.</Text>
+    <Text>{scroll 2}                  \nRien de suspect.</Text>
+    <Text>{scroll 2}Cela semble commander\nl'ouverture d'une {clear 0}                  \ncanalisation.</Text>
+    <Text>{scroll 2}Cela semble commander\nl'ouverture d'une {clear 0}                  \ncanalisation.{clear 0}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}                  \n                  {clear 0}                  \n                  </Text>
+    <Text>{scroll 2}On peut voir la surface de\nl'eau en dessous.</Text>
+    <Text>{scroll 0}                  \n                  {clear 36}                  \nC'est quoi ça ?{scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}Du calme ! \nJe ne suis pas un zombie.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nJe m'appelle Carlos {clear 67}caporal-chef de \nl'équipe d'Umbrella.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}                  \nEt ton nom c'est... ?{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \nJill...{clear 38}Tu viens de dire que tu \nfaisais partie des {clear 48}commandos d'Umbrella,\nc'est bien ça ?“{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Oui, on a fait tout\nce chemin jusqu'ici{clear 50}\npour secourir les civils.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Mais dès l'atterrissage,\nla mission ne s'est pas{clear 33}vraiment déroulée\ncomme prévue...{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}C'est pas vrai !\nComment m'a-t'il trouvée ?{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}{branch 160}Courir au sous-sol.{live}Se cacher dans la cuisine.{live}</Text>
+    <Text>{scroll 0}                  \nPar ici !{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nT'es folle ?{clear 38}T'aurais pu nous griller\ntous les deux !{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}                  \nPar ici !{scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 220}</Text>
+</Strings>

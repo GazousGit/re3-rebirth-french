@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}\n{scroll 2}\n{snd 2}{scroll 2}\nC'est complètement cassé.</Text>
+    <Text>{scroll 2}\n{snd 2}{scroll 2}\nC'est complètement cassé.</Text>
+    <Text>{scroll 2}\nC'est complètement cassé.</Text>
+    <Text>{scroll 2}Il fait trop sombre pour\nvoir à l'intérieur.</Text>
+    <Text>{scroll 2}\n{scroll 2}\n‟Raccoon Park"</Text>
+    <Text>{scroll 2}\n‟Raccoon Park“</Text>
+    <Text>{scroll 2}Il y avait un hôpital ici, \nmais il n'en reste rien.</Text>
+</Strings>

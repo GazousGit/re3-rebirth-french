@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Sa chair a dû être\ndéchiquetée ou dévorée.</Text>
+    <Text>{scroll 2}{cut 6}{snd 22}La corde est solide et ne\ncèdera pas.{clear 0}La corde semble être\nrecouverte d'essence.</Text>
+    <Text>{scroll 2}Sans gaz, le briquet\nest inutilisable.</Text>
+</Strings>

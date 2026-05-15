@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}\nFaites monter ou\nfaites descendre.{clear 0}Interrupteur A ?\n{branch 64}Haut{live}Bas{live}Suiv.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur A ?\n{branch 64}Haut{live}Bas{live}Suiv.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur B ?{branch 80}Haut{live}Bas{live}Suiv.{live}Retour{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur C ?{branch 80}Haut{live}Bas{live}Suiv.{live}Retour{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur D ?{branch 80}Haut{live}Bas{live}Suiv.{live}Retour{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur E ?{branch 80}Haut{live}Bas{live}Suiv.{live}Retour{live}Ann.{live}</Text>
+    <Text>{scroll 2}Interrupteur F ?{branch 80}Haut{live}Bas{live}Lire{live}Retour{live}Ann.{live}</Text>
+</Strings>

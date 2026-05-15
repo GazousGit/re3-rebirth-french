@@ -1,0 +1,13 @@
+<Strings>
+    <Text>{scroll 2}Une photo des membres de\nl'équipe ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}C'est le bureau de Wesker,\nle capitaine du ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}Il n'y a rien d'utile sur\ncette étagère.</Text>
+    <Text>{scroll 2}C'est le bureau de Barry,\nmembre du ＳＴＡＲＳ{clear 0}Il y a deux répliques de\npistolets sur le bureau.</Text>
+    <Text>{scroll 2}\nDifférents trophées.{clear 0}\nSur l'un d'entre eux :{clear 0}‟Meilleur tireur d'élite :\nChris Redfield“</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}C'est le bureau de Chris,\nmembre de l'équipe ＳＴＡＲＳ{clear 0}Ce désordre reflète\nsûrement la personnalité{clear 0}\ndu propriétaire des lieux.</Text>
+    <Text>{scroll 2}Le bureau de Rebecca, une\nrécente recrue des ＳＴＡＲＳ</Text>
+    <Text>{scroll 2}Des documents sur des\naffaires classées.{clear 0}\nRien à signaler par ici.</Text>
+    <Text>{scroll 2}Un important dispositif\nde communications.{clear 0}\nC'est hors service.{clear 0}Impossible d'envoyer un\nmessage d'ici.</Text>
+    <Text>{scroll 0}Non !!!  Répondez...\nToute retraite est coupée !{clear 108}Nous n'avons retrouvé\naucun survivant...{scroll 2}{clear 108}{scroll 0}C'est Carlos...\nenvoyez...{clear 78}des renforts\nimmédiatement...{scroll 2}{timed 78}</Text>
+</Strings>

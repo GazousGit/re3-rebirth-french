@@ -1,0 +1,7 @@
+[MOD]
+Name = French Language
+Title = BIOHAZARD™ 3 NEMESIS
+Module = 
+SavePath = 
+ForceEng = 0
+ConfigAltFont = 1

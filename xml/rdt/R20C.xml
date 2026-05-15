@@ -1,0 +1,62 @@
+<Strings>
+    <Text>{scroll 2}Certains éléments semblent\nêtre hors d'usage.</Text>
+    <Text>{scroll 2}L'huile seule ne suffit \npas à faire fonctionner{scroll 2}{clear 0}\ncette machine.</Text>
+    <Text>{scroll 2}Vous ne pouvez pas quitter\nle tramway pour le moment.</Text>
+    <Text>{scroll 2}Le poste de commandes\nest en état de marche.</Text>
+    <Text>{scroll 2}Cette machine n'a pas \nseulement besoin d'additif.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n‟Plan du Réseau“</Text>
+    <Text>{scroll 2}Le câble d'alimentation \nn'est pas connecté.</Text>
+    <Text>{scroll 2}\nLe fusible a sauté.</Text>
+    <Text>{scroll 2}Le mélange d'huiles a été\nconsommé.</Text>
+    <Text>{scroll 2}Mikhail semble souffrir\nterriblement. </Text>
+    <Text>{scroll 0}Vous êtes un des survivants \nde l'équipe de secours, hein ? {scroll 1}{clear 82}{scroll 0}Je viens de rencontrer un de \nvos coéquipiers, Carlos.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}Comment une fille comme \ntoi a-t-elle fait pour {scroll 1}{clear 50}{scroll 0}\nsurvivre ici ?{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}Je suis pas une fille comme \nles autres !{scroll 1}{clear 74}{scroll 0}\nJe fais partie des ＳＴＡＲＳ.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nHé, y'a un blessé là-bas ?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Oh...  \nCa a l'air plutôt sérieux...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Ils arrivent...  \nPrépare-toi...{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Calme toi ! \nTu es en sécurité maintenant !{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}Non... \nNe vous approchez pas... {scroll 1}{clear 100}{scroll 0}\nRestez où vous êtes...!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Alors Jill, tu vas nous \naider à sortir d'ici ?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Non. On ne peut pas lui \nfaire confiance...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Pourquoi ? \nOn a besoin de son aide !{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}\nOn va au beffroi. {scroll 1}{clear 54}{scroll 0}C'est là que l'hélicoptère \ndoit atterrir.{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nCa fait un peu loin à pied !{scroll 1}{timed 147}</Text>
+    <Text>{scroll 0}Le gros problème, c'est que \nles flammes barrent la {scroll 1}{clear 75}{scroll 0}route jusqu'à la \nzone d'atterrissage.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ca marche pour moi. \nBon plan !{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Bon ben, c'est parti les gars. \nAllons-y !{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\nEh, Jill, mets ça !  {scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nOn est prêts à partir ?{scroll 1}{clear 54}{scroll 0}\nTiens, prends ça.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}D'accord.  Euh...   \nNicholaï ne nous rejoindra pas.{scroll 1}{timed 165}</Text>
+    <Text>{scroll 0}\nJe comprends...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nCarlos...{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nOui... Tu as raison...{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}D'accord, allons-y. Nicholaï \nne nous rejoindra pas...{scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}Tu parles de l'équipe spéciale \nde la police de Raccoon ?!{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\nAhhh... Feu... Feu... {scroll 1}{clear 141}{scroll 0}\nRestons groupés !{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Ca va aller, \nne t'en fais pas !{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}On dirait qu'on est les \nseuls survivants...{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Mieux vaut coopérer \ndans ce cas.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Il ne reste plus que toi, \nmoi et le lieutenant Mikhail. {scroll 1}{clear 90}{scroll 0}C'est tout. Et Mikhail est \ngravement blessé.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Si on ne coopère pas, \non ne s'en sortira jamais !{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Hmmm...  D'accord.  \nMais alors on suit notre plan !{scroll 1}{timed 124}</Text>
+    <Text>{scroll 0}Une fois là-bas, on donne \nle signal, l'hélico arrive {scroll 1}{clear 99}{scroll 0}\net il nous tire de là !{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}On n'a pas d'autre choix \nque faire fonctionner ce {scroll 1}{clear 73}{scroll 0}\ntramway pour y arriver. {scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Par chance, ça nous servira \naussi de bouclier pour {scroll 1}{clear 75}{scroll 0}traverser les quartiers \nchauds en toute sécurité... {scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}Je conduirai le tramway. \nAllons-y.{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Je suis désolée pour ton ami, \nmais tu ne pouvais rien {scroll 1}{clear 80}{scroll 0}\nfaire de toute façon...{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}Laisse-moi conduire \nle tramway.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nCa a l'air d'aller...{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nMikhail... ?!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Qu'est-ce qu'il se passe \npar là ?!{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nJ'suis désolé...{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}Je me sens tellement \ninutile...{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Ne dis pas ça ! \nTu as fait tout ce que tu {scroll 1}{clear 60}{scroll 0}pouvais et tes blessures \nle prouvent !{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Mais je suis toujours en vie... \nalors que mes hommes...{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}Ce n'est pas le moment de \npenser à ça... Repose-toi...{scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}Je...  J'ai pas pu \nsauver mes hommes...{scroll 1}{timed 96}</Text>
+</Strings>

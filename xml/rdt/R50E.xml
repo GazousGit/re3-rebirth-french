@@ -1,0 +1,30 @@
+<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nJill ! {timed 33}</Text>
+    <Text>{scroll 0}\nPar ici !{timed 30}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Regarde Jill ! \nL'hélico arrive ! {timed 92}</Text>
+    <Text>{scroll 0}\n{timed 39}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\nC'est terminé Carlos... {timed 49}</Text>
+    <Text>{scroll 0}De quoi parles-tu ?! \nT'as pas entendu ?! {timed 75}</Text>
+    <Text>{scroll 0}Il y a un deuxième \nhélico... {clear 51}Et il vient pour te \nsortir de là !{timed 51}</Text>
+    <Text>{scroll 0}Mais qui c'est ? Qui pourrait \nbien me chercher ? {timed 110}</Text>
+    <Text>{scroll 0}\nPeu importe !{clear 36}Il faut juste qu'on soit \nlà quand il atterrira !{timed 66}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

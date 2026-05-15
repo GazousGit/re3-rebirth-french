@@ -1,0 +1,7 @@
+<Strings>
+    <Text>{scroll 2}\nUn groupe électrogène.{clear 0}{scroll 2}Voulez-vous l'allumer ?\n{branch 0}</Text>
+    <Text>{scroll 2}\nUn groupe électrogène.{clear 0}{scroll 2}Activer l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}C'est l'interrupteur qui\ncommande l'échelle.{clear 0}{scroll 2}Il lui faut de \nl'électricité pour{clear 0}{scroll 2}\nfonctionner.</Text>
+    <Text>{scroll 2}C'est l'interrupteur qui\ncommande l'échelle.{clear 0}{scroll 2}Abaisser l'échelle ?\n{branch 0}</Text>
+    <Text>{scroll 2}\nLe courant est rétabli.</Text>
+</Strings>

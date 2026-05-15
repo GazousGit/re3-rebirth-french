@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}Une voiture est garée.\nRien de suspect.</Text>
+    <Text>{scroll 2}\nAucun accès.</Text>
+    <Text>{scroll 2}\nRien d'intéressant.</Text>
+    <Text>{scroll 2}Il semble ne pas y \navoir de courant.</Text>
+    <Text>{scroll 2}Cela semble recharger\nla batterie.{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}{branch 160}Monter.{live}Sauter en bas.{live}</Text>
+</Strings>

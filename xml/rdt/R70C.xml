@@ -1,0 +1,3 @@
+<Strings>
+    <Text>{scroll 0}\nBienvenue. {clear 45}\nLes règles sont simples. {clear 66}Pour désamorcer la bombe \nimplantée dans votre corps, {clear 133}\nvous devez atteindre la cible. {clear 85}Souvenez-vous que vous \nrencontrerez divers {clear 84}\nobstacles sur votre route. {clear 56}Alors n'hésitez pas à user \nde tous les moyens pour {clear 126}\natteindre votre but. {clear 78}\nBonne chance... {clear 54}\n                  {scroll 1}{timed 85}</Text>
+</Strings>

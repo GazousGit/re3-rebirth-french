@@ -1,0 +1,26 @@
+<Strings>
+    <Text>Quitter</Text>
+    <Text>Créer</Text>
+    <Text>Charger</Text>
+    <Text>Sauvegarder</Text>
+    <Text>Ne pas charger</Text>
+    <Text>Ne pas sauvegarder</Text>
+    <Text>Ecraser ?</Text>
+    <Text>Oui</Text>
+    <Text>Non</Text>
+    <Text>Entrepôt</Text>
+    <Text>Allée</Text>
+    <Text>Entrée</Text>
+    <Text>Chambre noire</Text>
+    <Text>Commerces</Text>
+    <Text>Chapelle</Text>
+    <Text>Salon</Text>
+    <Text>Parc</Text>
+    <Text>Hôpital</Text>
+    <Text>Cimetière</Text>
+    <Text>Salle de repos</Text>
+    <Text>S. des moniteurs</Text>
+    <Text>Parking</Text>
+    <Text>S. des machines</Text>
+    <Text>DEBUG</Text>
+</Strings>

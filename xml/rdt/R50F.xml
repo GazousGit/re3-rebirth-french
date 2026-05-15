@@ -1,0 +1,4 @@
+<Strings>
+    <Text>{scroll 2}Le panneau de commande de\nl'ascenseur.{clear 0}Voulez-vous l'utiliser ?\n{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nCela ne s'ouvrira pas.{clear 0}Le verrou électronique \nrisque d'être réactivé.</Text>
+</Strings>

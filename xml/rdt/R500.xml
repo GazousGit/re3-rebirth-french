@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}C'est fermé par un verrou\nélectronique.</Text>
+    <Text>{scroll 2}Il y a un lecteur de carte\nmagnétique.</Text>
+    <Text>{scroll 2}Le verrouillage de secours\nest activé.</Text>
+    <Text>{scroll 0}\nNicholaï ?{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 85}</Text>
+    <Text>{scroll 2}Cette {color 1}carte magn.{color 0}\nn'est plus utile.{clear 0}Voulez-vous l'abandonner ?\n{branch 0}</Text>
+</Strings>

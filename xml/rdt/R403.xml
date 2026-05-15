@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}Rien de particulier\nlà-dedans.</Text>
+    <Text>{scroll 2}\nUne lumière de secours.</Text>
+    <Text>{scroll 2}Il y a différents \nmédicaments ici.</Text>
+    <Text>{scroll 2}Il y a beaucoup de numéros\nde cartes médicales.</Text>
+    <Text>{scroll 2}\nRien de suspect.</Text>
+    <Text>{scroll 2}Le rideau est tiré et\nje ne peux pas voir au{clear 0}\ntravers.</Text>
+</Strings>

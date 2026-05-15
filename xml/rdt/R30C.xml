@@ -1,0 +1,13 @@
+<Strings>
+    <Text>{scroll 2}Une boîte à musique\ntrès ornementée.{scroll 2}{clear 0}Des interrupteurs marqués \nde A à F.{scroll 2}{clear 0}Actionner les \ninterrupteurs ?{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Un ancien mécanisme en\nbon état.</Text>
+    <Text>{scroll 2}{cut 5}Un gadget richement\nornementé.</Text>
+    <Text>{scroll 2}{cut 5}Un ancien mécanisme en\nbon état.</Text>
+    <Text>{scroll 2}{cut 5}\nRien ne se passe.</Text>
+</Strings>

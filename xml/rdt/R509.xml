@@ -1,0 +1,11 @@
+<Strings>
+    <Text>{scroll 2}Impossible de tourner le\nrobinet.</Text>
+    <Text>{scroll 2}C'est verrouillé \nélectroniquement.</Text>
+    <Text>{scroll 2}Il y a un lecteur de\ncarte magnétique.</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 0}Attention. Procédure engagée \ndans la salle de traitement. {scroll 1}{clear 150}{scroll 0}\nEvacuez immédiatement.{scroll 1}{timed 82}</Text>
+</Strings>

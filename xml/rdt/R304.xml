@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 2}Le cadavre d'un mercenaire\nmort au combat. </Text>
+    <Text>{scroll 2}C'est une vieille boîte\nà musique.{clear 0}{scroll 2}Il y a une inscription\nsur le couvercle.{clear 0}{scroll 2}\n‟h b h h b h“</Text>
+    <Text>{scroll 2}Cette vieille boîte à \nmusique ne marche plus.{clear 0}{scroll 2}Il y a une inscription\nsur le couvercle.{clear 0}{scroll 2}\n‟b h b b h b“</Text>
+    <Text>{scroll 2}Il tient quelque chose\ndans sa main.</Text>
+</Strings>

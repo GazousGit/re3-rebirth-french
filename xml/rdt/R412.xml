@@ -1,0 +1,20 @@
+<Strings>
+    <Text>{scroll 2}On peut voir une lumière \nderrière l'âtre.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Il y a des outils \nd'entretien ici.</Text>
+    <Text>{scroll 2}Des instruments de \nnettoyage sont accrochés.</Text>
+    <Text>{scroll 2}\nDes bouteilles vides.</Text>
+    <Text>{scroll 0}Je suis assez étonné que\ntu aies survécu jusqu'ici !{scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}Vous avez l'air de vous\ndébrouiller plutôt bien,{clear 64}également ! Et au fait,\ncomment comptez-vous{clear 64}\nnous sortir de là ?{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Je n'ai pas la moindre\nintention de vous sortir de là.{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Vous nous considérez\ncomme des pions dans{clear 38}cette histoire,\nn'est-ce pas ?{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}C'est une façon de\ndire les choses, en effet.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}Nos employeurs souhaitaient\nune analyse détaillée des{scroll 1}{clear 120}{scroll 0}‟zombies“ créés suite à\nl'infection du virus-T.{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Vous voulez dire qu'ils ont\ndélibérément envoyé une{clear 94}unité militaire se faire\nmassacrer par leurs créatures ?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Pas exactement.\nMême si les conditions de cette{scroll 1}{clear 154}{scroll 0}opération étaient extrêmes,\nil n'était pas prévu que {clear 73}\nl'équipe soit supprimée.{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}Nous devions juste rassembler\ndes données sur les sujets.{scroll 1}{timed 126}</Text>
+    <Text>{scroll 0}\nEncore un mutant !{scroll 1}{timed 49}</Text>
+    <Text>{scroll 2}Ce petit bois peut prendre\nfeu facilement.{clear 0}Un courant d'air vient\nde derrière la cheminée.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 288}</Text>
+    <Text>{scroll 2}Vous n'avez plus besoin\nde ce {color 1}briquet{color 0}.{clear 0}Voulez-vous l'abandonner ?\n{branch 0}</Text>
+</Strings>

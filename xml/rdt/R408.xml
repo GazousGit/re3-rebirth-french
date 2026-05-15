@@ -1,0 +1,13 @@
+<Strings>
+    <Text>{scroll 0}Nicholaï ?!\nTu es toujours en vie ?!{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nTu as remarqué toi aussi... !{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\nQue se passe-t'il ?{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Je suis un des superviseurs.\nVoilà tout.{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}Des créatures inconnues\ndans du formol.</Text>
+    <Text>{scroll 2}\nDes notes sur les virus.</Text>
+    <Text>{scroll 2}Ce sont des articles \nmédicaux.</Text>
+    <Text>{scroll 2}Des produits chimiques\ndans une boîte en carton.</Text>
+    <Text>{scroll 2}Des dossiers sur les virus\net les vaccins.</Text>
+    <Text>{scroll 2}Il fait trop sombre pour\nvoir à l'extérieur.</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 39}</Text>
+</Strings>

@@ -1,0 +1,23 @@
+<Strings>
+    <Text>{scroll 2}L'étagère est pleine de \nbouteilles de bourbon.</Text>
+    <Text>{scroll 2}\nUn vieux flipper.</Text>
+    <Text>{scroll 2}\nUne cabine téléphonique.</Text>
+    <Text>{scroll 2}De la nourriture et des \nbouteilles entamées.</Text>
+    <Text>{scroll 2}L'évier est rempli de\nvaisselle sale.</Text>
+    <Text>{scroll 0}\nLaisse-moi !!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}\nBrad !{scroll 1}{clear 36}{scroll 0}Pourquoi personne ne fait \nrien contre ça ?!{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Personne n'est entraîné \ncontre ça, voilà tout ! {scroll 1}{clear 80}{scroll 0}\nQu'est-ce qu'on peut y faire ?{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nEcoute... {scroll 1}{clear 45}{scroll 0}Il vient pour nous.  \nOn va y passer !{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}\n...Qu'est-ce que tu racontes ?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nTu verras bien... {scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Il élimine les agents ＳＴＡＲＳ ! \nOn a plus d'autre issue !{scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}Brad ! Mais pourquoi personne \nne fait rien contre ça ?{scroll 1}{timed 141}</Text>
+    <Text>{scroll 0}Je ne savais pas que tu \navais survécu, Jill... {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}La police n'est pas entraînée \npour ce genre de situation. {scroll 1}{clear 80}{scroll 0}\nQue pourrait-elle faire ?{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 60}</Text>
+</Strings>

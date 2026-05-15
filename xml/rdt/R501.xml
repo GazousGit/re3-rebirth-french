@@ -1,0 +1,12 @@
+<Strings>
+    <Text>{scroll 2}Un programme pour la \nsemaine est griffonné ici.</Text>
+    <Text>{scroll 2}Des livres et des agendas\nont été empilés ici.</Text>
+    <Text>{scroll 0}\nCarlos !{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\nEcoute-moi bien Jill :{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}ils veulent lancer un missile \nen plein sur cette ville dès {scroll 1}{clear 98}{scroll 0}\nque le jour se lèvera.{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}L'explosion sera suffisamment \nforte pour réduire en cendres {scroll 1}{clear 60}{scroll 0}la ville entière et tous ses \nhabitants.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Tu es sûr de ce que tu \navances ?{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}Certain ! \nC'est un superviseur qui {scroll 1}{clear 44}{scroll 0}vient de me le révéler avant \nde mourir.{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Alors ils ne reculeront \ndevant rien pour se couvrir...{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Ecoute, il ne nous reste que \ntrès peu de temps.{scroll 1}{timed 87}</Text>
+</Strings>

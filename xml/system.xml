@@ -1,0 +1,153 @@
+<Strings>
+    <Text>Prendre\n{color 1}{string 0}{color 0} ?{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Vous ne pouvez\nplus prendre\nd'autres objets.\n</Text>
+    <Text>C'est déjà\nchargé.\n</Text>
+    <Text>Vous ne pouvez\nplus rien\nassocier.\n</Text>
+    <Text>C'EST INUTILE.\n</Text>
+    <Text>Les munitions\nseules sont\ninutilisables.\n</Text>
+    <Text>{color 1}{string 0}{color 0} dans\nl'inventaire.\n</Text>
+    <Text>Je n'en ai pas \nbesoin pour le\nmoment.\n</Text>
+    <Text>Vous ne pouvez\nassocier des \nmunitions normales {clear 0}et améliorées.\n</Text>
+    <Text>Les mines intactes \ndisparaîtront si \nvous rechargez.{clear 0}Voulez-vous \ncontinuer ?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Chargeur non \nvide. Impossible \nde recharger.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>Améliorer les \nmunitions ?\n{s}{s}{s}{s}{s}{s}{branch 0}</Text>
+    <Text>Plus de spray\nsoignant.\n</Text>
+    <Text>BOTU          \n</Text>
+    <Text>\n</Text>
+    <Text>Couteau \nd'autodéfense.\n</Text>
+    <Text>SIGPRO SP2009\nTout en plastique \net très léger.{clear 0}Munitions 9mm\nparabellum.\n</Text>
+    <Text>M92F Custom.\nPistolet spécial \ndes agents ＳＴＡＲＳ.{clear 0}Munitions 9mm\nparabellum.\n</Text>
+    <Text>Benelli M3S.\nUn fusil à canon\nscié.{clear 0}Cartouches\ncalibre 12.\n</Text>
+    <Text>S&amp;W M629C.\nUn revolver\nimpressionnant.{clear 0}Rééquilibré pour\nréduire le recul\nde l'arme.{clear 0}Munitions \n.44 Magnum.\n</Text>
+    <Text>Lance-grenades\nHk-p de taille\nréduite, conçu{clear 0}pour la police.{clear 0}Chargé avec des\ngrenades à\nfragmentation.\n</Text>
+    <Text>Lance-grenades\nHk-p de taille\nréduite, conçu{clear 0}pour la police.{clear 0}Chargé avec des\ngrenades \nau napalm.\n</Text>
+    <Text>Lance-grenades\nHk-p de taille\nréduite, conçu{clear 0}pour la police.{clear 0}Chargé avec des\ngrenades\nà l'acide.\n</Text>
+    <Text>Lance-grenades\nHk-p de taille\nréduite, conçu{clear 0}pour la police.{clear 0}Chargé avec des\ngrenades à l'azote\nliquide.\n</Text>
+    <Text>Lance-roquettes\nM66. {clear 0}Une arme ancienne\nmais efficace.\n</Text>
+    <Text>Une arme puissante \nà forte\ndispersion.\n</Text>
+    <Text>Un prototype du\ndépartement armes\nd'Umbrella.{clear 0}Munitions\nspéciales à\ncapteur.\n</Text>
+    <Text>STI Eagle 6.0.\nUn pistolet de \ncompétition.{clear 0}Munitions 9mm\nparabellum.\n</Text>
+    <Text>Fusil d'assaut \nM4A1. Configuré en\nmode MANUEL.{clear 0}Munitions 5.56mm \nOTAN.\n</Text>
+    <Text>Fusil d'assaut\nM4A1. Configuré en\nmode AUTO.{clear 0}Munitions 5.56mm \nOTAN.\n</Text>
+    <Text>Western Custom M37.\nEquipé d'un système \nspécial de {clear 0}rechargement.\nRedoutable à bout\nportant. {clear 0}Cartouches \ncalibre 12.\n</Text>
+    <Text>SIGPRO amélioré.{clear 0}Munitions 9mm \nparabellum\naméliorées.\n</Text>
+    <Text>M92F amélioré.{clear 0}Munitions 9mm \nparabellum\naméliorées.\n</Text>
+    <Text>Fusil amélioré.{clear 0}Cartouches\naméliorées.\n</Text>
+    <Text>Un lance-mines\nchargé de munitions\nauto-traçantes.\n</Text>
+    <Text>Balles 9x19 \nparabellum.{clear 0}Utilisables par le\nM92FS Custom ou le \nSIGPRO.\n</Text>
+    <Text>Balles .44 Magnum.\nTrès puissantes,\npour le revolver.{clear 0}Utilisables par\nle S&amp;W M629C.\n</Text>
+    <Text>Cartouches.\nUtilisables par\nle Benelli M3S.\n</Text>
+    <Text>Grenades à \nfragmentation.{clear 0}Explosent en\nnombreux fragments\nà l'impact. {clear 0}Utilisables par le\nlance-grenades\nHk-p.\n</Text>
+    <Text>Grenades\nau napalm.{clear 0}La tête de ces\ngrenades contient\nun gel au napalm.{clear 0}Utilisables par le\nlance-grenades\nHk-p.\n</Text>
+    <Text>Grenades à l'acide.{clear 0}La tête de ces\ngrenades contient\nun dérivé d'acide{clear 0}sulfurique spécial\nanti-créature.{clear 0}Utilisables par le\nlance-grenades\nHk-p.\n</Text>
+    <Text>Grenades à l'azote.{clear 0}La tête de ces\ngrenades contient\nde l'azote liquide.{clear 0}Utilisables par le\nlance-grenades\nHk-p.\n</Text>
+    <Text>Le capteur\nreconnaît le\npropriétaire de{clear 0}l'arme et explose\nsi une autre\npersonne l'utilise.{clear 0}Utilisable par le \nlance-mines.\n</Text>
+    <Text>Munitions 5.56mm\nOTAN pour le fusil \nd'assaut. {clear 0}Utilisables par\nle M4A1.\n</Text>
+    <Text>Balles 9mm\nparabellum\npoudre spéciale, {clear 0}créées avec le kit\nmunitions.{clear 0}Utilisables par le\nM92F ou le SIGPRO.\n</Text>
+    <Text>Cartouches cal. 12\npoudre spéciale,{clear 0}créées avec le kit\nmunitions.{clear 0}Utilisables par\nle Benelli M3S.\n</Text>
+    <Text>Vous remet en \npleine forme !\n</Text>
+    <Text>Une herbe rare qui\npeut vous refaire\nune santé.{clear 0}Combinez certaines\nherbes pour plus\nd'efficacité.\n</Text>
+    <Text>Une herbe rare qui\npeut neutraliser \nle poison.{clear 0}Combinez certaines\nherbes pour plus\nd'efficacité.\n</Text>
+    <Text>Une herbe rare qui\naméliore l'effet\nde l'herbe verte. {clear 0}Combinez certaines\nherbes pour plus\nd'efficacité.\n</Text>
+    <Text>Un mélange de\n2 herbes vertes.\n</Text>
+    <Text>Un mélange de\n1 herbe verte et\n1 herbe bleue.\n</Text>
+    <Text>Un mélange de\n1 herbe verte et\n1 herbe rouge.\n</Text>
+    <Text>Un mélange de\n3 herbes vertes.\n</Text>
+    <Text>Un mélange de\n2 herbes vertes et\n1 herbe bleue.\n</Text>
+    <Text>Un mélange de\n1 herbe verte, 1\nbleue et 1 rouge.\n</Text>
+    <Text>Peut contenir 3\nsprays soignants.\n</Text>
+    <Text>Une manivelle \ncarrée.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Une carte ＳＴＡＲＳ\navec une photo de\nJill.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Une vieille batterie. \nAussi efficace \nque les modernes. </Text>
+    <Text>Recourbée en forme de\ncrochet.{clear 0}Doit servir à \naccrocher quelque\nchose.\n</Text>
+    <Text>Un câble d'alimentation \npour machines de\ngrande taille.\n</Text>
+    <Text>Un fusible pour une\nmachine de grande\ntaille.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>A associer à de\nl'huile pour \nles machines de {clear 0}grande taille.\n</Text>
+    <Text>Une carte \naccompagne le \nbadge.\n</Text>
+    <Text>Une carte ＳＴＡＲＳ\navec une photo de\nBrad.\n</Text>
+    <Text>Huile pour petites\nmachines. \nInutilisable par{clear 0}les machines de \ngrande taille.\n</Text>
+    <Text>Huile mélangée à\nde l'additif. \nUtilisable par {clear 0}les machines de\ngrande taille.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Un outil pour\nboulons \nhexagonaux.\n</Text>
+    <Text>un tuyau de \ncanalisation en fer.\nUtilisable comme{clear 0}levier.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Une lance à\nincendie. Elle se\nfixe sur une{clear 0}bouche à incendie.\n</Text>
+    <Text>Un magnétophone\nportatif.{clear 0}Un diagnostic est\nenregistré sur la\ncassette.\n</Text>
+    <Text>De l'essence à\nbriquet.\n</Text>
+    <Text>Il est vide et est \ninutilisable pour \nle moment.\n</Text>
+    <Text>Un briquet à\nessence.\n</Text>
+    <Text>Une émeraude \nverte.\n</Text>
+    <Text>Un saphir\nbleu.\n</Text>
+    <Text>Une gemme\nd'ambre.\n</Text>
+    <Text>Une gemme\nd'obsidienne.\n</Text>
+    <Text>Une gemme\nde cristal.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Un engrenage\nen or.\n</Text>
+    <Text>Un engrenage\nen argent.\n</Text>
+    <Text>Un engrenage\nd'un Dieu du\nTemps.\n</Text>
+    <Text>Un objet de bronze\nen forme de livre.{clear 0}‟Savoir \ntransmis“.\n</Text>
+    <Text>Une boussole en \nbronze.{clear 0}‟L'avenir est entre \nmes mains“. \n</Text>
+    <Text>Milieu de culture\nservant à créer \nun vaccin. Il  {clear 0}doit être combiné \nà la base du vaccin \npour en créer un.\n</Text>
+    <Text>Elément de base\nutilisé pour créer\nle vaccin. Il{clear 0}doit être combiné \navec le milieu\ndu vaccin.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Vaccin efficace\ncontre l'infection\nvirale.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Utilisé pour créer\nle milieu de \nculture nécessaire{clear 0}à la réalisation \ndu vaccin. Il crée\nle milieu de {clear 0}culture du vaccin\nassocié à divers\nproduits {clear 0}chimiques.\n</Text>
+    <Text>Le viseur et\nla culasse\nd'une arme.{clear 0}Ces parties \nseules sont\ninutilisables.\n</Text>
+    <Text>Le châssis et le\nchargeur d'une\narme.{clear 0}Ces parties seules\nsont\ninutilisables.\n</Text>
+    <Text>La crosse en bois\net le canon d'une\narme.{clear 0}Ces parties seules\nsont\ninutilisables.\n</Text>
+    <Text>Piéces d'un fusil \nà levier à canon \ncourt.{clear 0}Ces parties seules\nsont\ninutilisables.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Une chaîne pour le \nDieu du Temps. {clear 0}Il y a un petit  \ntrou à vis sur le \ncôté.\n</Text>
+    <Text>Une manivelle\nhexagonale fortement\nrouillée.\n</Text>
+    <Text>C'est utilisé pour \nle lecteur de carte \nde l'usine.\n</Text>
+    <Text>Un objet utile à\nla fabrication\nde munitions.{clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un objet utile à\nla fabrication\nde munitions.{clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un objet utile à\nla fabrication\nde munitions.{clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de\n2 poudres A. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de \n2 poudres B. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de\n1 poudre A et\n1 poudre C. {clear 0}Peut être associé\nau kit munitions. \n</Text>
+    <Text>Un mélange de\n1 poudre B et\n1 poudre C.{clear 0}Peut être associé\nau kit munitions. \n</Text>
+    <Text>Un mélange de\n2 poudres C. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de\n3 poudres A. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de\n2 poudres A et\n1 poudre B. {clear 0}Peut être associé\nau kit munitions. \n</Text>
+    <Text>Un mélange de\n2 poudres B et\n1 poudre A. {clear 0}Peut être associé\nau kit munitions. \n</Text>
+    <Text>Un mélange de\n3 poudres B. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Un mélange de\n3 poudres C. {clear 0}Peut être associé\nau kit munitions\nou à des grenades.\n</Text>
+    <Text>Vous disposez de\nmunitions infinies\nsi vous l'associez{clear 0}à une arme.\n</Text>
+    <Text>Echantillon du\ntout-à-l'égout\nde l'usine.{clear 0}A réussi le test\nde pollution\nde l'eau.\n</Text>
+    <Text>On dirait le\ndisque système \nservant à ouvrir{clear 0}le verrou de la\nsalle de \ntraitement.\n</Text>
+    <Text>Dummy\n</Text>
+    <Text>Me sert à ouvrir\nles verrous \nsimples.\n</Text>
+    <Text>Une petite clé\navec une étiquette{clear 0}sur laquelle est\nécrit ‟porte fond“\n</Text>
+    <Text>On dirait la clé\nde l'infirmerie.\nSon étiquette{clear 0}indique ‟402“.\n</Text>
+    <Text>L'emblème ＳＴＡＲＳ\nest gravé dessus.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>Une clé ornée\nd'une pièce \nd'horloge.\n</Text>
+    <Text>Une clé ornée\nd'une pièce \nd'horloge.{clear 0}Une cavité permet\nd'y placer un\nobjet rond.\n</Text>
+    <Text>Une clé conçue\npour adorer un\nDieu du Temps.\n</Text>
+    <Text>BOTU\n</Text>
+    <Text>La clé du Parc\nde Raccoon.\n</Text>
+    <Text>Une clé trouvée \nsur un mercenaire. {clear 0}Il y a écrit : \n‟cimetière du\nparc de Raccoon“.\n</Text>
+    <Text>Une petite clé avec\nun anneau de fer.{clear 0}Il y a écrit :\n‟Entrée secondaire“\n</Text>
+    <Text>Une carte  \nd'identification\nqui semble{clear 0}être revêtue  \nd'une peinture \nspéciale. \n</Text>
+    <Text>La carte  \nrayonne. {clear 0}Elle semble \ndévoiler un \ncode.\n</Text>
+    <Text>Clé pour boutique\ndes quartiers\nchics.\n</Text>
+    <Text>Je dois trouver\nune machine à\nécrire pour {clear 0}l'utiliser et\nsauvegarder ma\nprogression.\n</Text>
+    <Text>Outil utilisé pour \ncharger un mélange  \ndans une balle vide.{clear 0}C'est utilisé \navec la poudre.\n</Text>
+    <Text>Instructions du jeu.\nDescription de \ndiverses actions, {clear 0}des opérations sur \nécran CARTE et dans \nles scènes du jeu.\n</Text>
+    <Text>Instructions pour \ncréer des balles.\nVoici comment {clear 0}utiliser la \npoudre et le \nkit munitions.\n</Text>
+    <Text></Text>
+    <Text></Text>
+</Strings>

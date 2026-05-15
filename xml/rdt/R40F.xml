@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}\nIl a été tué par balle.</Text>
+    <Text>{scroll 2}\n‟Défense d'entrer“.</Text>
+    <Text>{scroll 2}\nIl tient quelque chose.</Text>
+    <Text>{scroll 2}{cut 8}{snd 22}C'est l'entrée secondaire\ndu parc de Raccoon.{clear 0}\nC'est fermé.</Text>
+    <Text>{scroll 2}Cette clé n'est plus\nd'aucune utilité.{clear 0}Voulez-vous\nl'abandonner ?{branch 0}</Text>
+    <Text>{scroll 2}\n{color 1}{string 125}{color 0} utilisée.</Text>
+</Strings>

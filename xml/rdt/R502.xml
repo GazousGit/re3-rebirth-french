@@ -1,0 +1,11 @@
+<Strings>
+    <Text>{scroll 2}Contrôle l'alimentation\ndu système de sécurité.{clear 0}\nIl est en veille.{clear 0}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}Le système de sécurité\nest sous tension.</Text>
+    <Text>{scroll 2}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}Il y a un lecteur de {color 1}carte\nmagnétique{color 0}.</Text>
+    <Text>{scroll 2}Cette porte me semble\ntrès résistante.{clear 0}{cut 8}Un emplacement permet\nd'insérer une carte.</Text>
+    <Text>{scroll 2}Cette {color 1}carte magn{color 0}\nn'est plus utile.{clear 0}Voulez-vous l'abandonner ?\n{branch 0}</Text>
+    <Text>{scroll 2}Le système de sécurité\nest sous tension.</Text>
+    <Text>{scroll 2}\nLe verrou est ouvert.</Text>
+    <Text>{scroll 2}L'ascenseur est verrouillé \npar une {color 1}carte magnétique{color 0}.</Text>
+</Strings>

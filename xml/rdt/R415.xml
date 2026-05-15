@@ -1,0 +1,3 @@
+<Strings>
+    <Text>{scroll 2}Je pourrais sortir d'ici \nen escaladant la grille.{clear 0}Escalader la grille ?\n{branch 0}</Text>
+</Strings>

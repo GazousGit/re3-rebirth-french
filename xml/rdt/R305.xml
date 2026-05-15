@@ -1,0 +1,5 @@
+<Strings>
+    <Text>{scroll 2}\nIl n'y a rien d'autre.</Text>
+    <Text>{scroll 2}Quelqu'un a fouillé dans\nce tiroir.</Text>
+    <Text>{scroll 2}\nImpossible de l'ouvrir.</Text>
+</Strings>

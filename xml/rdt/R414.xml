@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 2}C'est configuré en mode\nauto-réception.</Text>
+    <Text>{scroll 2}\nUn dessin de Raccoon City.{clear 0}Le commissariat et\nl'hôpital sont mis en{clear 0}\névidence.</Text>
+    <Text>{scroll 2}On entrepose des armes\nici.</Text>
+    <Text>{scroll 0}Attention.\nMission accomplie.{clear 49}Tous les superviseurs\ndoivent immédiatement revenir.{clear 72}\nJe répète.{clear 39}Tous les superviseurs doivent\nimmédiatement revenir.  Terminé.\n                  {scroll 1}{timed 79}</Text>
+</Strings>

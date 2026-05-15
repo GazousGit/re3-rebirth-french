@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}Le store pare-feu est\nbaissé.</Text>
+    <Text>{scroll 2}L'interrupteur du \nvolet pare-feu.{clear 0}Il n'est pas alimenté.\nRien ne peut se passer.</Text>
+    <Text>{scroll 2}L'interrupteur du volet\npare-feu.{clear 0}Voulez-vous l'activer ?\n{branch 0}</Text>
+    <Text>{scroll 2}Le panneau n'est pas\nalimenté.{clear 0}Voulez-vous l'allumer ?\n{branch 0}</Text>
+    <Text>{scroll 2}\nLe courant a été rétabli.</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

@@ -1,0 +1,28 @@
+<Strings>
+    <Text>{scroll 2}Le feu est trop vif pour\nque je puisse entrer.</Text>
+    <Text>{scroll 2}Des fichiers d'incidents\nétranges sont éparpillés.</Text>
+    <Text>{scroll 2}On peut voir un passage\nétroit depuis la fenêtre.</Text>
+    <Text>{scroll 0}\nOù... Où suis-je ?{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}\nDétends-toi. Ca va aller.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\nSi tu le dis ! {scroll 1}{clear 45}{scroll 0}J'ai l'impression que ma \ntête va exploser !{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Je m'appelle Carlos. \nEt toi ?{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}Jill. De l'équipe Alpha. \nUnité ＳＴＡＲＳ du R.P.D.{scroll 1}{timed 136}</Text>
+    <Text>{scroll 0}\nLes ＳＴＡＲＳ. Je vois... {scroll 1}{clear 80}{scroll 0}Moi, je suis envoyé par la \nsociété Umbrella.{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}\nUmbrella ?{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0} Ouais ben me regarde pas \ncomme ça... {scroll 1}{clear 70}{scroll 0}\nQu'est-ce que j'ai dit ?{scroll 1}{clear 37}{scroll 0}\nY'a un problème ?{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nOh non...{scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}\nC'est lui !{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}{branch 160}Sauter par la fenêtre.{live}Se cacher au fond.{live}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nViens !{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\nC'est terrible !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Tu dois faire avec pour \nl'instant ! {scroll 1}{clear 60}{scroll 0}Cette chose veut me tuer. \nIl faut sortir d'ici !{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}\nPour qui travailles-tu ?{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nPar ici ! Grouille !{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Juste pour que tu saches \nque je souffre le martyr {scroll 1}{clear 60}{scroll 0}en ce moment... \nT'es contente ?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\nPour qui travailles-tu ?{scroll 1}{timed 49}</Text>
+</Strings>

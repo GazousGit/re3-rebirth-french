@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 2}C'est rempli d'un liquide\nnauséabond.</Text>
+    <Text>{scroll 2}Vous ne pouvez pas vous \napprocher davantage. </Text>
+    <Text>{scroll 2}L'appareil de contrôle de\nqualité de l'eau ne {clear 0}fonctionne plus. Il \naffiche un message {clear 0}d'erreur.</Text>
+    <Text>{scroll 2}‟Assurez-vous que la zone \na été évacuée avant {clear 0}d'activer le système\nd'évacuation d'eau {clear 0}polluée.“</Text>
+</Strings>

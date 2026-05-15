@@ -1,0 +1,6 @@
+# REbirth runtime files
+*.log
+*.tmp
+# Windows
+Thumbs.db
+desktop.ini

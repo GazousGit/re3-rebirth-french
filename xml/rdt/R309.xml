@@ -1,0 +1,20 @@
+<Strings>
+    <Text>{scroll 2}La statue d'une jeune\nfille portant un plateau.{clear 0}Une gemme d'{color 1}ambre{color 0} est \nposée sur le plateau.</Text>
+    <Text>{scroll 2}La statue d'une jeune\nfille portant un plateau.{clear 0}Une gemme d'{color 1}obsidienne{color 0}\nest posée sur le plateau.</Text>
+    <Text>{scroll 2}La statue d'une jeune\nfille portant un plateau.{clear 0}Une gemme de {color 1}cristal{color 0} est\nposée sur le plateau.</Text>
+    <Text>{scroll 2}\n‟Déesse du Passé“{clear 0}{clear 0}Il y a un plateau sous\nle tableau.</Text>
+    <Text>{scroll 2}\n‟Déesse du Présent“{clear 0}{clear 0}Il y a un plateau sous\nle tableau.</Text>
+    <Text>{scroll 2}\n‟Déesse de l'Avenir“{clear 0}{clear 0}Il y a un plateau sous\nle tableau.</Text>
+    <Text>{scroll 2}Poser {color 1}ambre{color 0} sur \nle plateau ?{branch 0}</Text>
+    <Text>{scroll 2}Poser {color 1}obsidienne{color 0} sur \nle plateau ?{branch 0}</Text>
+    <Text>{scroll 2}Poser {color 1}cristal{color 0} sur \nle plateau ?{branch 0}</Text>
+    <Text>{scroll 2}{color 1}Obsidienne{color 0} \nsur le plateau.</Text>
+    <Text>{scroll 2}{color 1}Cristal{color 0} \nsur le plateau.</Text>
+    <Text>{scroll 2}Une cloche de rechange \npour le beffroi.{clear 0}Il faudrait une force \nherculéenne pour la {clear 0}\ndéplacer...</Text>
+    <Text>{scroll 2}La cloche a dû être posée\nici pour bloquer l'accès{clear 0}\naux envahisseurs.</Text>
+    <Text>{scroll 2}\nUn mercenaire d'Umbrella.{clear 0}Il est sans doute mort en\nessayant de protéger une{clear 0}\njeune fille.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}{color 1}Ambre{color 0} \nsur le plateau.</Text>
+    <Text>{scroll 2}\nIl n'y a rien d'autre.</Text>
+</Strings>

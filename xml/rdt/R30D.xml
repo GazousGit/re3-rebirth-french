@@ -1,0 +1,24 @@
+<Strings>
+    <Text>{scroll 2}\nCarlos est inconscient.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n      @-@-@       {timed 72}</Text>
+    <Text>{scroll 0}\n{timed 91}</Text>
+    <Text>{scroll 0}\nJill !{timed 30}</Text>
+    <Text>{scroll 0}\n{timed 81}</Text>
+    <Text>{scroll 0}\n{timed 24}</Text>
+    <Text>{scroll 0}\n{timed 76}</Text>
+    <Text>{scroll 0}\nJill... ! {timed 30}</Text>
+    <Text>{scroll 0}\nCarlos... {timed 40}</Text>
+    <Text>{scroll 0}Hé ! Accroche-toi ! J'vais \npas te laisser mourir ici...{timed 78}</Text>
+    <Text>{scroll 0}\n{timed 49}</Text>
+    <Text>{scroll 0}Jill !!! \nTiens bon !{timed 69}</Text>
+    <Text>{scroll 0}\nQu'est-ce que j'ai fait ?{timed 48}</Text>
+    <Text>{scroll 0}Excuse-moi Jill... \nAllez... ! Lève-toi !{timed 140}</Text>
+</Strings>

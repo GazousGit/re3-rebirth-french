@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}L'ascenseur ne marche \npas.{clear 0}Il n'est pas relié au\nsecteur.</Text>
+    <Text>{scroll 2}L'ascenseur ne marche \npas.{clear 0}Il n'est pas relié au\nsecteur.</Text>
+    <Text>{scroll 2}Il y a la place de mettre\nune batterie.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Le planning des futures \nconstructions est affiché{clear 0}\nici.</Text>
+    <Text>{scroll 2}Son expression révèle une\ndouloureuse agonie.</Text>
+    <Text>{scroll 2}Son expression révèle une\ndouloureuse agonie.</Text>
+</Strings>

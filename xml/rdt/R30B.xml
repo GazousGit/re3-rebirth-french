@@ -1,0 +1,12 @@
+<Strings>
+    <Text>{scroll 0}{branch 160}Allumer la lumière.{live}Utiliser le câble.{live}</Text>
+    <Text>{scroll 2}Cela a l'air très ancien\net délabré.</Text>
+    <Text>{scroll 2}\nLe sol est humide.</Text>
+    <Text>{scroll 2}Ce spot éclaire le\ncadran de l'horloge.</Text>
+    <Text>{scroll 2}\nElle semble avoir grillé.</Text>
+    <Text>{scroll 2}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}Il y a une cavité dans \nla plaque de cuivre.{clear 0}Utiliser la {color 1}{string 119}{color 0} ?\n{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}Il y a une cavité dans \nla plaque de cuivre.</Text>
+    <Text>{scroll 2}Cet interrupteur commande\nla lumière.</Text>
+    <Text>{scroll 2}Cette clé n'est plus\nd'aucune utilité.{clear 0}Voulez-vous\nl'abandonner ?{branch 0}</Text>
+</Strings>

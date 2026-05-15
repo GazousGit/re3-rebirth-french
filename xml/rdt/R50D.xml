@@ -1,0 +1,36 @@
+<Strings>
+    <Text>{scroll 2}Une des armes biologiques\nd'Umbrella.</Text>
+    <Text>{scroll 2}La porte a été bloquée\npar une explosion.</Text>
+    <Text>{scroll 2}Un panneau d'alimentation\nqui ne fonctionne pas.</Text>
+    <Text>{scroll 2}Alimentation dérivée.\nDéverrouillage impossible.</Text>
+    <Text>{scroll 0}{branch 160}Exterminer le monstre.{live}L'ignorer et évacuer.{live}</Text>
+    <Text>{scroll 2}La porte semble ne plus \nfonctionner.</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Le panneau de commande \ndu générateur de secours. {clear 0}‟Affecter toute la \npuissance aux modules{clear 0}\nexternes“.</Text>
+    <Text>{scroll 2}Affichage du programme \nd'alimentation.{clear 0}‟Alimentation externe\nimpossible."</Text>
+    <Text>{scroll 2}Un module de transport \norné d'un ‟T“.</Text>
+    <Text>{scroll 2}Le cadavre d'un membre \ndes Forces Spéciales.</Text>
+    <Text>{scroll 2}La pièce centrale du \ncircuit, connectée à un{clear 0}\ncâble de gros diamètre.</Text>
+    <Text>{scroll 2}La pièce centrale du \ncircuit, connectée à un{clear 0}\ncâble de gros diamètre.</Text>
+    <Text>{scroll 2}Un panneau d'alimentation \nqui est référencé par ‟1“.</Text>
+    <Text>{scroll 2}Un panneau d'alimentation \nqui est référencé par ‟2“.</Text>
+    <Text>{scroll 2}Un panneau d'alimentation \nqui est référencé par ‟3“.</Text>
+    <Text>{scroll 0}Attention. Courant \ninsuffisant pour la mise {scroll 1}{clear 102}{scroll 0}\nen route du système.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Vérification de \nl'accumulateur.{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Accumulateur connecté.  \nCanon à particules activé.{scroll 1}{timed 164}</Text>
+    <Text>{scroll 0}\nVérification du système.{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Programme de chargement rapide. \nTir imminent.{scroll 1}{timed 158}</Text>
+    <Text>{scroll 0}\n{timed 142}</Text>
+    <Text>{scroll 0}\n{timed 158}</Text>
+    <Text>{scroll 0}\n{timed 144}</Text>
+    <Text>{scroll 0}Attention. Surchauffe du \nsystème. {scroll 1}{clear 110}{scroll 0}\nRéfrigération en cours.{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\n{timed 138}</Text>
+    <Text>{scroll 0}\nAccumulateur connecté.{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 0}Mets-toi bien ça dans le crâne : \nles ＳＴＡＲＳ ne meurent jamais !!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Mets-toi bien ça dans le crâne : \nles ＳＴＡＲＳ ne meurent jamais !!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 231}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 140}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 152}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 34}</Text>
+</Strings>

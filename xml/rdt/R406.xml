@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}\n‟Monts Arklay“</Text>
+    <Text>{scroll 2}C'est fermé par un verrou\nélectronique.{clear 0}{scroll 2}Premier chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}Second chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}Troisième chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}\nRien de plus.</Text>
+    <Text>{scroll 2}Il y avait quelque chose \nici...</Text>
+</Strings>

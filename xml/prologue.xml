@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 0}\n{clear 34}Tout a commencé par une journée \nde septembre comme les autres {clear 130}à Raccoon City. Une ville \ndirigée par la société Umbrella.{timed 120}</Text>
+    <Text>{scroll 0}\n{clear 45}Personne n'osait s'y opposer. \nEt ce manque de courage les {clear 99}mènerait indiscutablement \nà leur perte. {timed 84}</Text>
+    <Text>{scroll 0}\n{clear 66}J'imagine qu'ils devaient \nsubir les conséquences de {clear 87}leurs actes mais il n'y \naurait pas de pitié. {clear 84}Si seulement ils avaient \nosé se battre... {clear 84}\n{clear 108}Mais lorsque les rouages de la \njustice se mettent en place, {clear 91}\nrien ne les arrête !{clear 55}\nRien.{timed 56}</Text>
+    <Text>{scroll 0}\n{clear 55}C'était la dernière chance \nde Raccoon City... {clear 108}Et ma dernière chance, \nma dernière échappatoire... {timed 108}</Text>
+</Strings>

@@ -1,0 +1,12 @@
+<Strings>
+    <Text>{scroll 2}Il a été dévoré de \nl'intérieur. </Text>
+    <Text>{scroll 2}Quelqu'un a déjà fouillé\ncet endroit.</Text>
+    <Text>{scroll 2}\nTasse de café froid.</Text>
+    <Text>{scroll 2}\n‟10/3 18H“{clear 0}\n‟Soirée au Bar Jack“.</Text>
+    <Text>{scroll 2}Un verrouillage à \nreconnaissance vocale{clear 0}Appuyer sur le bouton du\nmicro ?{branch 0}</Text>
+    <Text>{scroll 2}Veuillez enregistrer votre\nvoix.</Text>
+    <Text>{scroll 2}Aller à quel étage ?\n{branch 64}3{live}-3{live}Ouvrir{live}Annuler{live}</Text>
+    <Text>{scroll 2}\nLa porte ne se ferme pas !</Text>
+    <Text>{scroll 2}\nVous avez mieux à faire !</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

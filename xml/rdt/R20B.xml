@@ -1,0 +1,14 @@
+<Strings>
+    <Text>{scroll 0}Mikhail ! Tu as une... dernière \nvolonté ?{scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}Ma famille, mes amis... ont tous\n été massacrés par ces monstres.{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}Je ne peux pas abandonner juste \nparce que je suis blessé.{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Mais tu ne comprends pas que ces\nmonstres sont aussi des victimes{clear 84}\nd'Umbrella ?!{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Tu ne serais pas en train \nd'insinuer que je m'en prends à {clear 102}eux ? Y'a un truc que t'as pas \nl'air de comprendre : {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}On est pas franchement liés à la\nsociété !{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Je sais. Et c'est d'ailleurs la\nseule raison pour laquelle {clear 108}\nj'accepte de coopérer avec vous.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}On a aucune raison de \ns'impliquer dans ce foutoir !{scroll 1}{timed 146}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>Ses blessures lui ont été \nfatales.</Text>
+    <Text>\nCela ne fonctionne plus.</Text>
+    <Text>Une forte barricade\nbloque le passage.</Text>
+</Strings>

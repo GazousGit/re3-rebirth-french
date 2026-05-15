@@ -1,0 +1,12 @@
+<Strings>
+    <Text>{scroll 2}{cut 15}Le filtre semble être\ncomplètement obstrué.{clear 0}{scroll 2}Un liquide nauséabond\nsuinte.</Text>
+    <Text>{scroll 2}\nJe ne peux pas passer.</Text>
+    <Text>{scroll 0}Je vais finir par croire \nqu'il te faut un garde {scroll 1}{clear 54}{scroll 0}\ndu corps à temps plein ...{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}Merci Carlos. \nJe te suis très reconnaissante.{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nEcoute-moi bien Jill.{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}Ils veulent lancer un missile en \nplein sur cette ville dès l'aube.{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}Dès l'aube ?! \nMais c'est dans...{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Je sais... Il ne nous \nreste plus beaucoup de temps.{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Mieux vaut nous séparer \npour chercher un moyen {scroll 1}{clear 51}{scroll 0}\nde sortir d'ici.{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}Et méfie-toi de ce traître de \nNicholaï.{scroll 1}{timed 106}</Text>
+</Strings>

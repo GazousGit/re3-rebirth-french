@@ -1,0 +1,7 @@
+<Strings>
+    <Text>Sa cage thoracique a été \ndéfoncée et déchiquetée.</Text>
+    <Text>Un conduit d'aération. \nIl semble être assez {clear 0}large pour laisser passer\nune personne.{clear 0}Voulez-vous fuir par le\nconduit d'aération ?{branch 0}</Text>
+    <Text>                  \nUne chambre froide.</Text>
+    <Text>{scroll 0}                  \nSuis-moi !{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 255}</Text>
+</Strings>

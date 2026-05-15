@@ -1,0 +1,15 @@
+<Strings>
+    <Text>{scroll 2}Cela semble être une sorte\nd'interrupteur électrique.{clear 0}Il se trouve juste à côté\ndes cultures.{clear 0}Actionner l'interrupteur ?\n{branch 0}</Text>
+    <Text>{scroll 2}Un synthétiseur de \nproduits chimiques.{clear 0}Une {color 1}base moyenne{color 0} peut \nêtre placée ici.</Text>
+    <Text>{scroll 2}\nLe courant est coupé.\n</Text>
+    <Text>{scroll 2}Utilisation du synthétiseur ? \n{branch 81}Ⅰ{live}Ⅱ{live}Ⅲ{live}Bas{live}Quitter{live}</Text>
+    <Text>{scroll 2}Utilisation du synthétiseur ? \n{branch 80}Ⅰ{live}Ⅱ{live}Ⅲ{live}Bas{live}Quitter{live}</Text>
+    <Text>{scroll 2}Utilisation du synthétiseur ? \n{branch 64}A{live}B{live}Haut{live}Quitter{live}</Text>
+    <Text>{scroll 2}L'aquarium est peuplé de\ncréatures inconnues.</Text>
+    <Text>{scroll 2}Un microscope haute\nprécision.</Text>
+    <Text>{scroll 2}Ils fabriquaient des\nproduits chimiques ici.</Text>
+    <Text>{scroll 2}Ils faisaient une culture\nde cellules d'une {clear 0}\ncréature.</Text>
+    <Text>{scroll 2}Utilisation du synthétiseur ? \n{branch 82}Ⅰ{live}Ⅱ{live}Ⅲ{live}Bas{live}Quitter{live}</Text>
+    <Text>{scroll 2}Utilisation du synthétiseur ? \n{branch 65}A{live}B{live}Haut{live}Quitter{live}</Text>
+    <Text>{scroll 2}\nIl n'y a rien d'autre.</Text>
+</Strings>

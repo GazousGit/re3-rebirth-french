@@ -1,0 +1,17 @@
+<Strings>
+    <Text>{scroll 2}C'est un trou de forme\nhexagonale.</Text>
+    <Text>{scroll 2}Une manivelle hexagonale \ncassée y est insérée.{clear 0}Il me faut quelque chose\npour l'actionner.</Text>
+    <Text>{scroll 2}\nC'est dangereux ici !</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Une manivelle hexagonale \ncassée y est insérée.{clear 0}Il me faut quelque chose\npour l'actionner.</Text>
+    <Text>{scroll 2}\nLe store est baissé.</Text>
+    <Text>{scroll 2}\nUne pompe à essence.</Text>
+    <Text>{scroll 0}\nCarlos !{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Hé ! Du calme ! Je suis pas \nencore mort.{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\nEst-ce que ça va ?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Ouais. Un peu fatigué, c'est \ntout. Jouer au héros, c'est {clear 144}\npas si facile finalement... {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Mes oreilles ! On devrait \ntous les deux être sourds {clear 84}\ndepuis longtemps ! {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}OK ! Je vais récupérer un\n peu de matériel.{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}Ca risque d'être difficile \nà trouver là où l'on va.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 2}Vous n'avez plus besoin\nde cette {color 1}clé à molette{color 0}.{clear 0}Voulez-vous l'abandonner ?\n{branch 0}</Text>
+</Strings>

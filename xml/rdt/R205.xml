@@ -1,0 +1,31 @@
+<Strings>
+    <Text>{scroll 2}\n‟Autel de la Sagesse.“{clear 0}Cet emplacement permet \nde mettre un objet ici.</Text>
+    <Text>{scroll 2}\n‟Autel de la Sagesse.“</Text>
+    <Text>{scroll 2}‟L'avenir est entre nos \nmains.“{clear 0}Il y avait une boussole\nà cet emplacement.</Text>
+    <Text>{scroll 2}‟L'avenir est entre nos \nmains.“</Text>
+    <Text>{scroll 2}‟Concentrons notre savoir\nsur l'avenir.“{clear 0}‟C'est lui qui nous aidera \nà accomplir notre destin.“ {clear 0}‟Le Maire de Raccoon City, \nMichael Warren.“</Text>
+    <Text>{scroll 2}La barricade bloque le\npassage.</Text>
+    <Text>{scroll 2}Cette porte est solidement \nfermée...</Text>
+    <Text>{scroll 0}Attends...\nJ'ai une chose à te demander.{scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}Je sais... Toutes les nanas\nsont folles de mon accent,{clear 82}j'ai l'habitude... J'te réserve\nune soirée la semaine prochaine,{clear 82}\nsi tu veux ?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Quoi ?! Tu rêves, là...\nDis-moi plutôt pourquoi Umbrella{clear 120}\na envoyé ton équipe ici ?{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}Nous sommes là pour sauver\nla vie des civils.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\nBien sûr... A d'autres !{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Umbrella est la seule\nresponsable de ce qui arrive !{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Ecoute. Nous, on est juste des\nmercenaires, rien de plus.{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Parce que tu crois que le maître\nexplique à son chien pourquoi{clear 72}il doit aller chercher le bâton\nqu'il vient de lancer ?!{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Si ce sont des réponses que\ntu veux, adresse-toi à quelqu'un{clear 91}\nde chez Umbrella.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nOn en reparlera plus tard...{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}Nous sommes ici pour sauver\ndes civils, un point c'est tout.{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Si tu me crois,\naide-nous ! Décide-toi vite !{scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\nJ'ai une question à te poser.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}Pourquoi Umbrella a\nenvoyé ton équipe ici ?{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Nous avons pour mission\nde secourir les civils.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\nComme c'est gentil !{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}Surtout quand on sait qu'Umbrella\nest l'unique responsable...{clear 72}\nQuels menteurs !{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Ecoute. On est juste des\nmercenaires, nous ! On ne{clear 72}\nsait rien de plus.{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nPas le temps de discuter.{clear 81}Si tu me crois, viens avec\nnous ! Décide-toi vite !{scroll 1}{timed 117}</Text>
+    <Text>{scroll 2}Vous avez autre chose à \nfaire !</Text>
+</Strings>

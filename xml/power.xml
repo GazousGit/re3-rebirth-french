@@ -1,0 +1,7 @@
+<Strings>
+    <Text>{scroll 2}Premier interrupteur.\n{branch 64}Rouge{live}Bleu{live}Eff.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Premier interrupteur.\n{branch 64}Rouge{live}Bleu{live}Eff.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Second interrupteur.\n{branch 64}Rouge{live}Bleu{live}Eff.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Troisième interrupteur.\n{branch 64}Rouge{live}Bleu{live}Eff.{live}Ann.{live}</Text>
+    <Text>{scroll 2}Quatrième interrupteur.\n{branch 64}Rouge{live}Bleu{live}Eff.{live}Ann.{live}</Text>
+</Strings>

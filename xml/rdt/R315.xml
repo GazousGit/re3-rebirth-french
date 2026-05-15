@@ -1,0 +1,6 @@
+<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}Une cloche pour le beffroi.\nJe peux la déplacer.</Text>
+    <Text>{scroll 2}Le cadavre d'un compagnon\nd'armes. Il s'est battu{clear 0}jusqu'à son dernier \nsouffle pour sa mission.</Text>
+</Strings>

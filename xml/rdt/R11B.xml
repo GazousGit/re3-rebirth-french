@@ -1,0 +1,33 @@
+<Strings>
+    <Text>{scroll 0}Qu'est-ce que\nvous avez fait ?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Il allait se transformer en\nzombie, j'avais pas le choix !{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Il serait devenu dangereux pour\nnous, il fallait l'éliminer !{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}Mais il était encore\nconscient, n'est-ce pas ?{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Oh ! Il était\nquasiment mort...{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}En plus, on a économisé des\nballes en le tuant maintenant,{clear 69}parce que si on avait attendu\nqu'il se transforme en zombie...{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}\nJe suis occupé.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Ne m'oblige pas à\nfaire ça, Murphy !{clear 66}\nM'oblige pas à tirer !{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\nTue moi...{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}C'est fini...\nJe... Zombie...{scroll 1}{timed 121}</Text>
+    <Text>{scroll 0}Attends, attends ! On n'est\npas obligé de faire ça !{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\nMagne-toi...{clear 72}Avant qu'il ne soit trop tard...\nQue je ne perde connaissance...{scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}\nTue-moi !{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nMurphy !  Mais pourquoi ?{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}\nCarlos !{scroll 1}{timed 39}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Divers documents sont \néparpillés un peu partout.</Text>
+    <Text>{scroll 2}‟Aperçu des ventes de ce\ntrimestre.“</Text>
+    <Text>{scroll 2}Un écran de contrôle.\nIl est sous tension.</Text>
+    <Text>{scroll 2}Il n'y a vraiment rien\nd'intéressant ici.</Text>
+    <Text>{scroll 2}Un catalogue et des\nbrochures de la société.</Text>
+    <Text>{scroll 2}{snd 22}‟Stockage de produits\nchimiques“{clear 0}‟L'accès aux stocks \nest contrôlé par{clear 0}\nl'ordinateur.“</Text>
+    <Text>{scroll 2}C'est le PC de Nicholaï.\nDommage qu'il soit cassé.</Text>
+    <Text>{scroll 2}Nicholaï examine le \nmercenaire depuis son PC.</Text>
+    <Text>{scroll 2}Allumer l'écran de contrôle ?\n{branch 0}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 114}</Text>
+</Strings>

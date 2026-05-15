@@ -1,0 +1,65 @@
+<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}{branch 0}</Text>
+    <Text>{scroll 2}{branch 160}Négocier avec Nicholaï.{live}Riposter à l'hélicoptère.{live}</Text>
+    <Text>{scroll 2}Un récepteur radar\nportatif. </Text>
+    <Text>{scroll 2}Vous avez le récepteur \nradar en votre possession. </Text>
+    <Text>{scroll 2}\nLa trappe est verrouillée.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nJill ? Où es-tu ?! {timed 68}</Text>
+    <Text>{scroll 0}Si tu m'entends, \nréponds-moi tout de suite !{timed 104}</Text>
+    <Text>{scroll 0}Je suis là. \nQu'y a-t'il ?{timed 42}</Text>
+    <Text>{scroll 0}J'ai trouvé le moyen de sortir \nd'ici. Les moteurs {clear 60}de l'hélico fonctionnent et \nsont prêts à tourner. {timed 60}</Text>
+    <Text>{scroll 0}\nC'est parti !{timed 37}</Text>
+    <Text>{scroll 0}La ville sera bientôt \nentièrement rasée ! {clear 78}\nDépêche-toi ! {clear 36}Et n'oublie pas \nd'emporter cet appareil !{timed 80}</Text>
+    <Text>{scroll 0}\nCa sert à quoi ?{timed 39}</Text>
+    <Text>{scroll 0}Cet appareil est capable \nde suivre la trajectoire {clear 60}\nd'un missile en approche. {clear 42}\nConserve-le précieusement !{timed 56}</Text>
+    <Text>{scroll 0}Et maintenant, écoute-moi, \nil ne faut pas paniquer ! {clear 70}Nous allons survivre ! \nTous les deux ! {clear 66}\nIl faut juste sortir d'ici !{timed 48}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Attention. Tir de \nmissile confirmé. {clear 148}Attention. Tir de \nmissile confirmé. {clear 138}Urgence de niveau D. Evacuation \ndu personnel immédiate. {timed 193}</Text>
+    <Text>{scroll 0}Tu es toujours en vie. \nQuelle résistance...{timed 99}</Text>
+    <Text>{scroll 0}\nNicholaï ?{timed 45}</Text>
+    <Text>{scroll 0}Désolé, tu ne pourras \npas sortir par là. {timed 102}</Text>
+    <Text>{scroll 0}Alors vous voulez sortir \nd'ici tout seul, hein ?{timed 104}</Text>
+    <Text>{scroll 0}Je me suis assuré que les \nautres superviseurs {clear 78}\nn'avaient pas survécu. {timed 42}</Text>
+    <Text>{scroll 0}Comme je serai le seul à \nsavoir ce qui s'est passé ici, {clear 120}j'aurai plus d'impact \npour négocier ma prime. {timed 108}</Text>
+    <Text>{scroll 0}Alors pourquoi me tuer ? Je ne \nfais pas partie des employés !{timed 84}</Text>
+    <Text>{scroll 0}Leurs raisons de te supprimer \nne me concernent pas. {timed 124}</Text>
+    <Text>{scroll 0}Le montant n'est pas \nfaramineux mais ils{clear 96} offrent tout de même une \nrécompense pour ta mort. {timed 111}</Text>
+    <Text>{scroll 0}\n{timed 170}</Text>
+    <Text>{scroll 0}Même si je sais que \ntu vas me manquer, {clear 72}je dois te faire \nmes adieux... {timed 60}</Text>
+    <Text>{scroll 0}Soit tu meurs dignement, soit \ntu meurs avec des regrets. {timed 133}</Text>
+    <Text>{scroll 0}\nCela dépend de toi seule. {timed 85}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Jill ! \nQue s'est-il passé ? {timed 51}</Text>
+    <Text>{scroll 0}Carlos, Nicholaï est arrivé \nà l'hélico avant nous...{timed 147}</Text>
+    <Text>{scroll 0}\nCarlos, l'hélico... {timed 97}</Text>
+    <Text>{scroll 0}Je refuse de mourir \ndans un endroit pareil ! {timed 160}</Text>
+    <Text>{scroll 0}\nJe n'abandonnerai pas Jill !{clear 36}Je n'ai pas encore dit \nmon dernier mot ! {timed 48}</Text>
+    <Text>{scroll 0}Il reste toujours une chance, \nmême si elle est infime. {timed 85}</Text>
+    <Text>{scroll 0}Je n'ai pas dit mon \ndernier mot ! {timed 58}</Text>
+    <Text>{scroll 0}Il doit y avoir un moyen \nde sortir d'ici... {timed 92}</Text>
+    <Text>{scroll 0}\nC'est... terminé... {clear 172}\nPlus le temps... {timed 86}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ... Jill... {clear 126}\nEs-tu là... Réponds...{timed 128}</Text>
+    <Text>{scroll 0}Hé, il vient de \ndire ton nom ! {timed 76}</Text>
+    <Text>{scroll 0}\nQui ça peut bien être ?{timed 40}</Text>
+    <Text>{scroll 0}\nPeu importe ! {timed 43}</Text>
+    <Text>{scroll 0}On ferait mieux de lui \ndire où on est !{timed 54}</Text>
+    <Text>{scroll 0}C'est ça. Il faut trouver \nun moyen de sortir d'ici. {timed 103}</Text>
+    <Text>{scroll 0}\nJill !{timed 33}</Text>
+    <Text>{scroll 0}Il faut que nous trouvions \nun moyen de sortir d'ici. {timed 104}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

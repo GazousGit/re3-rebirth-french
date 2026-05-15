@@ -1,0 +1,7 @@
+<Strings>
+    <Text>{scroll 2}Des chariots et d'anciens \ninstruments d'observation.</Text>
+    <Text>{scroll 2}Aller à quel étage ?\n{branch 64}3{live}RdC{live}Ouvrir{live}Annuler{live}</Text>
+    <Text>{scroll 2}\nLa porte ne se ferme pas !</Text>
+    <Text>{scroll 2}\nVous avez mieux à faire !</Text>
+    <Text>{scroll 2}De grandes machines sont\nencastrées dans le mur.</Text>
+</Strings>

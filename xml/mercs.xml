@@ -1,0 +1,11 @@
+<Strings>
+    <Text>{scroll 0}    Acheter cet objet ?{branch 1}</Text>
+    <Text>{scroll 0}    Un fusil d'assaut avec des\n    munitions illimitées.</Text>
+    <Text>{scroll 0}    Une Gatling avec des \n    munitions illimitées.</Text>
+    <Text>{scroll 0}    Un lance-roquettes avec des \n    munitions illimitées.</Text>
+    <Text>{scroll 0}    Munitions illimitées pour \n    les armes de RE3.</Text>
+    <Text>{scroll 0}  </Text>
+    <Text>{scroll 0}    Vous ne pouvez pas.</Text>
+    <Text>{scroll 0}    EPUISE</Text>
+    <Text>{scroll 0} \n   </Text>
+</Strings>

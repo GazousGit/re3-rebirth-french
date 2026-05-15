@@ -1,0 +1,5 @@
+<Strings>
+    <Text>{scroll 2}Conduits à vapeur\nHaute pression.</Text>
+    <Text>{scroll 2}\nDe l'azote liquide.</Text>
+    <Text>{scroll 0}\n{timed 108}</Text>
+</Strings>

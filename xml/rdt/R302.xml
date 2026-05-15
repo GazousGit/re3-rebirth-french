@@ -1,0 +1,13 @@
+<Strings>
+    <Text>{scroll 0}Je n'arrive pas à croire que \ntu sois vivant !{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}Je n'ai pas la moindre idée \nde la manière dont on va {clear 50}\nsortir de cette ville...{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}De quoi parles-tu ? On \na réussi !{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Je crois que tu n'as pas tout \nsaisi : ils n'ont aucune {clear 74}intention de nous laisser en \nréchapper vivants !{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Tu vas pas me dire que tu \ncrois que leur ‟ambitieux“{clear 98} plan d'évacuation existe \nréellement ?{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}En fait, je pense que nous \nn'avons pas d'autre choix {clear 74}\nque de les croire !{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Ah non ! Si nous devons \nmourir, gardons au moins {clear 74}\nle choix du moment !{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}C'est tout ce que tu trouves \nà dire ? Tu laisses tomber ?{scroll 1}{timed 98}</Text>
+    <Text>{scroll 0}\nNon...{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}C'est juste que... J'arrive \npas à m'y faire !{scroll 1}{timed 115}</Text>
+    <Text>{scroll 2}Il n'y a rien dans la\ncheminée.</Text>
+</Strings>

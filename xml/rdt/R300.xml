@@ -1,0 +1,25 @@
+<Strings>
+    <Text>{scroll 2}\nIl n'y a rien d'autre.</Text>
+    <Text>{scroll 2}Il semble ne pas avoir été\nutilisé depuis longtemps.</Text>
+    <Text>{scroll 0}On y est presque arrivé. \nComment te sens-tu ?{scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}Ca va... \nQue t'est-il arrivé ?{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Je viens de me battre \navec ce monstre.{scroll 1}{clear 80}{scroll 0}Et... \nJ'ai une mauvaise nouvelle, {scroll 1}{clear 88}{scroll 0}Nicholaï est toujours \nen vie.{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Mais... \nJe pensais qu'il était mort !{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Ce type ne sait même pas ce \nque ce mot signifie !{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}\nQu'est-ce qu'il cherche ?{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\nJ'en sais rien. {scroll 1}{clear 40}{scroll 0}Tout ce que je sais, \nc'est qu'il est contre nous.{scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nDésolé Jill, {scroll 1}{clear 32}{scroll 0}mais il faut absolument que \nje m'occupe de quelque chose...{scroll 1}{clear 60}{scroll 0}On se retrouve plus tard. \nNe t'inquiète pas.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nHé, ça va ?{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Oui... À peu près... \nQue se passe-t-il ?{scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}Ce monstre n'est pas du genre \nà abandonner facilement !{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Quoi ?! \nJe croyais qu'on l'avait tué !{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}Je sais, \nmais il t'attendait !{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nIl s'amuse avec nous... \n{scroll 1}{clear 58}{scroll 0}Carlos, tu crois qu'on \nréussira à l'arrêter ?!{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}\nOui, je pense.{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\nDésolé Jill, {scroll 1}{clear 30}{scroll 0}il faut que j'aille régler \ndeux trois petites choses...{scroll 1}{clear 66}{scroll 0}Oh et... J'ai une mauvaise \nnouvelle.  {scroll 1}{clear 79}{scroll 0}\nNicholaï est vivant.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nNicholaï ?!... Tu en es sûr ?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Oui... Je ne sais pas comment \nc'est possible mais en tout {scroll 1}{clear 100}{scroll 0}\ncas, il faut s'en méfier.{scroll 1}{clear 39}{scroll 0}Nous ne devons pas lui faire \nconfiance !{scroll 1}{timed 56}</Text>
+</Strings>

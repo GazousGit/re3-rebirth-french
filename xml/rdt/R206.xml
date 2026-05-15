@@ -1,0 +1,26 @@
+<Strings>
+    <Text>{scroll 0}Attends... J'ai une chose\n à te demander.{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Je sais... Toutes les nanas\n sont folles de mon accent, {clear 86}j'ai l'habitude... Mais j'te \nréserve une soirée la semaine {clear 86}\nprochaine, si tu veux ?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\nQuoi ?! Tu rêves, là... {clear 92}Dis-moi plutôt pourquoi \nUmbrella a envoyé ton {clear 68}\néquipe ici ?{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Nous sommes là pour sauver\n la vie des civils.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\nBien sûr... A d'autres !{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}Umbrella est l'unique \nresponsable de tout ce {clear 66}\nqui se passe !{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Ecoute. Nous, on est juste \ndes mercenaires, rien de plus.{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Parce que tu crois que le \nmaître explique à son chien {clear 72}pourquoi il doit aller chercher \nle bâton qu'il vient de lancer ?!{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Si ce sont des réponses \nque tu veux, adresse-toi {clear 96}\nà quelqu'un de chez Umbrella.{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nOn en reparlera plus tard...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Nous sommes ici pour sauver \ndes civils, un point c'est tout.{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}Si tu me crois, aide-nous ! \nDécide-toi vite !{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}\nJ'ai une question à te poser.{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}Pourquoi Umbrella a envoyé \nton équipe ici ?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Nous avons pour mission de \nsecourir les civils.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\nComme c'est gentil !...{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Surtout quand on sait \nqu'Umbrella est l'unique {clear 96}responsable... Quels \nmenteurs !{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}Ecoute. On est juste des \nmercenaires, nous ! On ne {clear 72}\nsait rien de plus.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nPas le temps de discuter.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Si tu me crois, viens avec \nnous ! Penses-y !{scroll 1}{timed 128}</Text>
+    <Text>{scroll 2}\nRien de particulier.</Text>
+    <Text>{scroll 2}Un conduit d'aération de\ngrande taille.</Text>
+</Strings>

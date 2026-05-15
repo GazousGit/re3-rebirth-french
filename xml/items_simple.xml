@@ -1,0 +1,196 @@
+<Strings>
+    <Text />
+    <Text>Couteau</Text>
+    <Text>Pist. mercenaire</Text>
+    <Text>Pistolet</Text>
+    <Text>Fusil à pompe</Text>
+    <Text>Magnum</Text>
+    <Text>Lance-grenades</Text>
+    <Text>Lance-grenades</Text>
+    <Text>Lance-grenades</Text>
+    <Text>Lance-grenades</Text>
+    <Text>Lance-roquettes</Text>
+    <Text>Gatling</Text>
+    <Text>Lance-mines</Text>
+    <Text>Eagle 6.0</Text>
+    <Text>Fusil d'assaut</Text>
+    <Text>Fusil d'assaut</Text>
+    <Text>Colt</Text>
+    <Text>SIGPRO A</Text>
+    <Text>M92F A</Text>
+    <Text>Benelli M3S A</Text>
+    <Text>Lance-mines A</Text>
+    <Text>Balles pistolet</Text>
+    <Text>Balles Magnum</Text>
+    <Text>Cartouches fusil</Text>
+    <Text>Grenades</Text>
+    <Text>Grenades au napalm</Text>
+    <Text>Grenades à l'acide</Text>
+    <Text>Grenades à l'azote</Text>
+    <Text>Mines</Text>
+    <Text>Balles FA</Text>
+    <Text>Balles A pistolet</Text>
+    <Text>Cartouches A fusil</Text>
+    <Text>Spray soignant</Text>
+    <Text>Herbe verte</Text>
+    <Text>Herbe bleue</Text>
+    <Text>Herbe rouge</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Mélange herbes</Text>
+    <Text>Trousse soins</Text>
+    <Text>Manivelle</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Carte ＳＴＡＲＳ</Text>
+    <Text>BOTU</Text>
+    <Text>Batterie</Text>
+    <Text>Patte</Text>
+    <Text>Câble alimentation</Text>
+    <Text>Fusible</Text>
+    <Text>BOTU</Text>
+    <Text>Additif</Text>
+    <Text>Badge</Text>
+    <Text>Carte ＳＴＡＲＳ</Text>
+    <Text>Huile</Text>
+    <Text>Mélange huiles</Text>
+    <Text>BOTU</Text>
+    <Text>Clé à molette</Text>
+    <Text>Tuyau en fer</Text>
+    <Text>BOTU</Text>
+    <Text>Lance incendie</Text>
+    <Text>Magnétophone</Text>
+    <Text>Essence à briquet</Text>
+    <Text>Briquet</Text>
+    <Text>Briquet</Text>
+    <Text>Pierre verte</Text>
+    <Text>Pierre bleue</Text>
+    <Text>Ambre</Text>
+    <Text>Obsidienne</Text>
+    <Text>Cristal</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Engrenage or</Text>
+    <Text>Engrenage argent</Text>
+    <Text>Engrenage Chronos</Text>
+    <Text>Livre bronze</Text>
+    <Text>Boussole bronze</Text>
+    <Text>Milieu du vaccin</Text>
+    <Text>Base du vaccin</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Vaccin</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Base moyenne</Text>
+    <Text>Eagle pièces A</Text>
+    <Text>Eagle pièces B</Text>
+    <Text>M37 pièces A</Text>
+    <Text>M37 pièces B</Text>
+    <Text>BOTU</Text>
+    <Text>Chaîne Chronos</Text>
+    <Text>Manivelle rouillée</Text>
+    <Text>Carte magnétique</Text>
+    <Text>Poudre A</Text>
+    <Text>Poudre B</Text>
+    <Text>Poudre C</Text>
+    <Text>Poudre AA</Text>
+    <Text>Poudre BB</Text>
+    <Text>Poudre AC</Text>
+    <Text>Poudre BC</Text>
+    <Text>Poudre CC</Text>
+    <Text>Poudre AAA</Text>
+    <Text>Poudre AAB</Text>
+    <Text>Poudre BBA</Text>
+    <Text>Poudre BBB</Text>
+    <Text>Poudre CCC</Text>
+    <Text>Balles infinies</Text>
+    <Text>Échantillon d'eau</Text>
+    <Text>Disque système</Text>
+    <Text>DUMMY</Text>
+    <Text>Crochet</Text>
+    <Text>Clé entrepôt</Text>
+    <Text>Clé infirmerie</Text>
+    <Text>Clé emblème</Text>
+    <Text>BOTU</Text>
+    <Text>Clé beffroi</Text>
+    <Text>Clé beffroi</Text>
+    <Text>Clé Chronos</Text>
+    <Text>BOTU</Text>
+    <Text>Clé parc</Text>
+    <Text>Clé parc</Text>
+    <Text>Clé parc</Text>
+    <Text>Clé complexe</Text>
+    <Text>Clé complexe</Text>
+    <Text>Clé boutique</Text>
+    <Text>Ruban encreur</Text>
+    <Text>Kit munitions</Text>
+    <Text>Instructions A</Text>
+    <Text>Instructions B</Text>
+    <Text>Instructions jeu A</Text>
+    <Text>Mémo de Dario</Text>
+    <Text>Journal d'un mercenaire</Text>
+    <Text>Fax</Text>
+    <Text>Rapport de Marvin</Text>
+    <Text>Mémo de David</Text>
+    <Text>Guide de la ville</Text>
+    <Text>Mémo du journaliste</Text>
+    <Text>Instructions</Text>
+    <Text>Carnet du mercenaire</Text>
+    <Text>Carte postale</Text>
+    <Text>Rapport superviseur</Text>
+    <Text>Ordre</Text>
+    <Text>Journal du directeur</Text>
+    <Text>Journal du gérant</Text>
+    <Text>Consignes de sécurité</Text>
+    <Text>Mémo du mécanicien</Text>
+    <Text>Fax de Kendo</Text>
+    <Text>Rapport du gérant</Text>
+    <Text>Instructions médicales</Text>
+    <Text>Fax du Q.G.</Text>
+    <Text>Manuel incinérateur</Text>
+    <Text>Photo A</Text>
+    <Text>Photo B</Text>
+    <Text>Photo C</Text>
+    <Text>Photo E</Text>
+    <Text>Photo D</Text>
+    <Text>Carte postale beffroi</Text>
+    <Text>Instructions jeu B</Text>
+    <Text>Dossier secret</Text>
+    <Text>Journal de Jill</Text>
+    <Text>Quartiers chics</Text>
+    <Text>Centre-ville</Text>
+    <Text>Beffroi</Text>
+    <Text>Parc</Text>
+    <Text>Usine désaffectée</Text>
+    <Text>Commissariat</Text>
+    <Text>Hôpital</Text>
+    <Text>Vide</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Clé porte fond</Text>
+    <Text>BOTU</Text>
+    <Text>Clé ＳＴＡＲＳ</Text>
+    <Text>Briquet vide</Text>
+    <Text>Saphir</Text>
+    <Text>Émeraude</Text>
+    <Text>Maniv. hexagonale</Text>
+    <Text>BOTU</Text>
+    <Text>Clé cimetière</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Livre sagesse</Text>
+    <Text>Boussole avenir</Text>
+    <Text>Manivelle carrée</Text>
+    <Text>Clé biseautée</Text>
+    <Text>Remontoir</Text>
+    <Text>Clé entrée princ.</Text>
+    <Text>Clé entrée sec.</Text>
+</Strings>

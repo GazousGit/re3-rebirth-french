@@ -1,0 +1,20 @@
+<Strings>
+    <Text>{scroll 2}\nUn chariot élévateur.</Text>
+    <Text>{scroll 2}C'est étrangement calme de\nl'autre côté.</Text>
+    <Text>{scroll 2}Des objets défectueux ont\nété stockés ici.</Text>
+    <Text>{scroll 2}\nL'alarme a déjà été donnée.</Text>
+    <Text>{scroll 2}\nIl n'y a plus rien ici.</Text>
+    <Text>{scroll 2}Le conteneur est fermé de\nl'intérieur.</Text>
+    <Text>{scroll 2}\nRien d'intéressant.</Text>
+    <Text>{scroll 0}{scroll 1}{clear 6}{scroll 2}{snd 34}2{snd 34}8{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}e{snd 34}p{snd 34}t{snd 34}e{snd 34}m{snd 34}b{snd 34}r{snd 34}e{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}L{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}j{snd 34}o{snd 34}u{snd 34}r{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}l{snd 34}è{snd 34}v{snd 34}e{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{snd 35}{s}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 2}{snd 34}L{snd 34}e{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}m{snd 34}o{snd 34}n{snd 34}s{snd 34}t{snd 34}r{snd 34}e{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}o{snd 34}n{snd 34}t{snd 36}{scroll 5}{s}{scroll 2}{snd 34}e{snd 34}n{snd 34}v{snd 34}a{snd 34}h{snd 34}i{snd 36}{scroll 5}{s}{scroll 2}{snd 34}l{snd 34}a{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}v{snd 34}i{snd 34}l{snd 34}l{snd 34}e{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 126}</Text>
+    <Text>{scroll 2}\n{snd 34}P{snd 34}a{snd 34}r{snd 36}{scroll 5}{s}{scroll 2}{snd 34}j{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}n{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}a{snd 34}i{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}q{snd 34}u{snd 34}e{snd 34}l{snd 36}{scroll 5}{s}{scroll 2}{snd 34}m{snd 34}i{snd 34}r{snd 34}a{snd 34}c{snd 34}l{snd 34}e{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 57}</Text>
+    <Text>{scroll 2}\n{snd 34}J{snd 34}e{snd 36}{scroll 5}{s}{scroll 2}{snd 34}s{snd 34}u{snd 34}i{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}t{snd 34}o{snd 34}u{snd 34}j{snd 34}o{snd 34}u{snd 34}r{snd 34}s{snd 36}{scroll 5}{s}{scroll 2}{snd 34}e{snd 34}n{snd 36}{scroll 5}{s}{scroll 2}{snd 34}v{snd 34}i{snd 34}e{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}OK !\nIl faut qu'on sorte d'ici !{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nQuoi ?!{scroll 1}{clear 36}{scroll 0}Mais vous vous rendez compte \nde ce que vous me dites, là ?{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}Je viens juste de perdre ma \nfille, là, dehors ! {scroll 1}{clear 84}{scroll 0}Comment osez-vous me demander \nd'y retourner ?{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}Je suis vraiment désolée pour \nvotre fille...{scroll 1}{clear 90}{scroll 0}Mais il n'y pas d'autre moyen de \ns'en sortir que de partir d'ici !{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\nNon ! Je n'irai nulle part !{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Je préfère crever de faim ici \nplutôt que de m'faire dévorer {scroll 1}{clear 90}{scroll 0}\npar un de ces morts vivants !{scroll 1}{clear 72}{scroll 0}\nAlors, laissez-moi tranquille !!{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 24}{scroll 0}\nJe vous le répète !{scroll 1}{clear 42}{scroll 0}\nJe ne bougerai pas d'ici !{scroll 1}{timed 85}</Text>
+</Strings>

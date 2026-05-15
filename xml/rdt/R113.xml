@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}C'est fermé par un simple\nverrou.</Text>
+    <Text>{scroll 2}C'est fermé par un simple\nverrou.{clear 0}Voulez-vous utiliser le\n{color 1}crochet{color 0} ?{branch 0}</Text>
+    <Text>{scroll 2}C'est fermé avec un\nverrouillage codé.{clear 0}{scroll 2}Premier chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}Second chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}Troisième chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}Quatrième chiffre ?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Quitter{live}</Text>
+    <Text>{scroll 2}\nIl n'y a rien d'autre.</Text>
+</Strings>

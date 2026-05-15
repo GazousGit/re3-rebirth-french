@@ -1,0 +1,8 @@
+<Strings>
+    <Text>{scroll 2}\nLa fenêtre est barricadée.</Text>
+    <Text>{scroll 2}La barricade semble avoir\nété faite à la hâte.</Text>
+    <Text>{scroll 2}Un puits d'aération. Il y\nfait plutôt sombre.</Text>
+    <Text>{scroll 2}Il y a quelque chose \nd'écrit ici.{scroll 2}‟Silence pendant les \nréunions. Merci.“</Text>
+    <Text>{scroll 2}\nRien d'intéressant.</Text>
+    <Text>{scroll 2}La porte est solidement\nbarricadée.</Text>
+</Strings>

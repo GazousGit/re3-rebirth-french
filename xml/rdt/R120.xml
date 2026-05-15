@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}\nLe store est baissé.</Text>
+    <Text>{scroll 2}Il y a la place d'insérer\nun objet à embout carré.</Text>
+    <Text>{scroll 2}Un coffre à jouets\nabandonné.</Text>
+    <Text>{scroll 2}Des ordures sont répandues\nun peu partout.</Text>
+    <Text>{scroll 2}\nDiverses petites annonces.</Text>
+    <Text>{scroll 2}‟Umbrella a découvert une\nsubstance révolutionnaire.{clear 0}Elle vous fera rajeunir\nde 10 ans !“</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

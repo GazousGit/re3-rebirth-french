@@ -1,0 +1,20 @@
+<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}La porte est solidement\nverrouillée.</Text>
+    <Text>{scroll 0}\nAlors... On se promène... ?{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\nNicholaï !{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}Vous voulez sortir d'ici tout\nseul, c'est ça votre plan, hein ?{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}Je me suis d'abord assuré\nqu'aucun des autres superviseurs{clear 67}\nn'avait survécu.{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}Comme je serai le seul à\nsavoir ce qui s'est passé{clear 108}ici, j'aurai plus d'impact\npour négocier ma prime...{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}Alors pourquoi me tuer ?Je ne\nfais pas partie des employés !{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Leurs raisons de te\nsupprimer ne me concernent pas.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}Le montant n'est pas\nfaramineux mais ils{clear 84}offrent tout de même\nune récompense pour ta mort.{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Génial ! Sauf que\nje n'ai aucune intention{clear 84}de créditer vos\nfonds de retraite !{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 2}\nUn grand réfrigérateur.{clear 0}Ces marques de griffes\nindiquent que quelque{clear 0}chose a tenté de l'ouvrir\nde l'intérieur.</Text>
+    <Text>{scroll 2}Cela semble être une pièce\nde l'installation{clear 0}\nélectrique.{clear 0}\nRien de suspect.</Text>
+    <Text>{scroll 2}L'intérieur du mur\nest visible.{clear 0}Quelqu'un a dû travailler\nsur l'installation{clear 0}\nélectrique.</Text>
+    <Text>{scroll 2}\n‟Traitement en cours.“</Text>
+    <Text>{scroll 2}‟Veuillez insérer un\n{color 1}disque système{color 0} pour{clear 0}\ndéverrouiller.“</Text>
+    <Text>{scroll 0}\n                  {clear 162}\n                  {scroll 1}{timed 170}</Text>
+</Strings>

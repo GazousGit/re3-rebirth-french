@@ -1,0 +1,14 @@
+<Strings>
+    <Text>{scroll 0}{branch 160}Sauter par la fenêtre.{live}Activer le frein d'urgence.{live}</Text>
+    <Text>{scroll 2}Vous ne pouvez pas quitter\nle tramway pour le moment.</Text>
+    <Text>{scroll 0}Jill...  Sors du tramway !  \nTout de suite !!{scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}\nMikhail, attends ! NON !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nSors de là ! Dépêche !!{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nMikhail...{scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}\n‹Ａ‹!{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Non ! Les freins ont \nlâché !{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}\nCa doit être ça !{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nC'est inutile, viens !{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+</Strings>

@@ -1,0 +1,9 @@
+<Strings>
+    <Text>{scroll 2}Aller à quel étage ?\n{branch 64}RdC{live}-3{live}Ouvrir{live}Annuler{live}</Text>
+    <Text>{scroll 2}\nLa porte ne se ferme pas !</Text>
+    <Text>{scroll 2}\nVous avez mieux à faire !</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nOn y fait des injections.</Text>
+    <Text>{scroll 2}‟Ne pas dépasser la dose\nprescrite.“</Text>
+    <Text>{scroll 2}‟N'oubliez pas de remettre\nle matériel à sa place{clear 0}\naprès inspection.“</Text>
+</Strings>

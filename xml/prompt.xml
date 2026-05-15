@@ -1,0 +1,75 @@
+<Strings>
+    <Text>Une vieille machine à \nécrire.{clear 0}Avec un {color 1}ruban encreur{color 0}, je \npourrais sauvegarder.</Text>
+    <Text>Une vieille machine à \nécrire.{clear 0}Vous pouvez sauvegarder \nici.{clear 0}Utiliser le {color 1}ruban encreur{color 0} ?\n{branch 0}</Text>
+    <Text>\n</Text>
+    <Text>\n{clear 0}\n{branch 0}</Text>
+    <Text>\nIl n'y a rien d'autre.</Text>
+    <Text>\n{color 1}{string 0}{color 0} utilisé(e).</Text>
+    <Text>\nCarte : {color 1}{string 0}{color 0}.</Text>
+    <Text>Des {color 1}herbes bleues {color 0}\npoussent ici.{clear 0}Voulez-vous les prendre ?\n{branch 0}</Text>
+    <Text>\n{color 1}herbes bleues{color 0} utilisées.</Text>
+    <Text>Cela ne m'est d'aucune \nutilité pour le moment.</Text>
+    <Text>Monter par l'échelle ? \n{branch 0}</Text>
+    <Text>Descendre par l'échelle ? \n{branch 0}</Text>
+    <Text>\nLa porte ne s'ouvre pas !</Text>
+    <Text>\nAn old typewriter.{clear 0}I could save my progress \nif I had an {color 1}Ink Ribbon{color 0}.{clear 0}You can not save your \ngame in this preview.</Text>
+    <Text>Cette clé n'est plus \nd'aucune utilité.{clear 0}Voulez-vous l'abandonner ? \n{branch 0}</Text>
+    <Text>Cette clé n'est plus \nd'aucune utilité.{clear 0}Voulez-vous l'abandonner ? \n{branch 0}</Text>
+    <Text>Cette clé n'est plus \nd'aucune utilité.{clear 0}Voulez-vous l'abandonner ? \n{branch 0}</Text>
+    <Text>Vous avez déverrouillé\nla porte.</Text>
+    <Text>\nC'est fermé de l'intérieur. </Text>
+    <Text>C'est fermé par un \nverrou simple.</Text>
+    <Text>\nC'est la porte du fond.{clear 0}\nC'est fermé.</Text>
+    <Text>\nC'est fermé.{clear 0}\nIl est écrit : ‟402“.</Text>
+    <Text>\nC'est fermé.{clear 0}Vous avez besoin de la \n{color 1}clé des ＳＴＡＲＳ{color 0}.</Text>
+    <Text>\nLa porte ne s'ouvre pas !</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nC'est fermé.{clear 0}Un cadran est gravé \nsous le trou de la serrure.</Text>
+    <Text>\nC'est fermé.{clear 0}Le Dieu du Temps est gravé \nsous le trou de la serrure.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>C'est l'entrée principale \ndu parc de Raccoon.{clear 0}\nC'est fermé.</Text>
+    <Text>\nC'est fermé.{clear 0}Il est écrit : ‟Cimetière \ndu parc de Raccoon.“</Text>
+    <Text>{cut 8}C'est l'entrée secondaire\ndu parc de Raccoon.{clear 0}\nC'est fermé.</Text>
+    <Text>‟SALLE DE CONTROLE \nDU TRAITEMENT“{clear 0}\nC'est fermé.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>La porte de la boutique\nest fermée.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nC'est fermé.</Text>
+    <Text>\nInsérer Manette.</Text>
+    <Text>\nDEMO</Text>
+    <Text>Adieu ma vie. </Text>
+    <Text>Adieu doux foyer.</Text>
+    <Text>C'est ma dernière chance </Text>
+    <Text>de survie...</Text>
+    <Text></Text>
+    <Text>C'est ma dernière échappatoire...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Ils m'ont tout pris.</Text>
+    <Text>Absolument tout...</Text>
+    <Text>Mais je ne les laisserai</Text>
+    <Text>pas gagner sans combattre.</Text>
+    <Text>Je vais survivre. Ils ne </Text>
+    <Text>pourront pas m'arrêter...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Ces soldats ont perdu </Text>
+    <Text>leur vigueur.</Text>
+    <Text>Ils ont oublié le goût de</Text>
+    <Text>la peur et de la survie.</Text>
+    <Text>Il est temps de le leur </Text>
+    <Text>rappeler...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Un seul moyen d'échapper </Text>
+    <Text>à ce cauchemar...</Text>
+    <Text>Un seul moyen de survivre</Text>
+    <Text>à l'horreur...</Text>
+    <Text>Il n'y a plus qu'une </Text>
+    <Text>seule échappatoire...</Text>
+    <Text></Text>
+    <Text></Text>
+    <Text>Oui{live}Non</Text>
+</Strings>
